@@ -72,6 +72,24 @@
         "name": "NewSprite",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -113,14 +131,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 369,
+          "height": 559,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "acf80daa-e158-4b7c-b422-981996b5c833",
-          "width": 768,
-          "x": 512,
-          "y": 232,
+          "name": "NewTiledSprite",
+          "persistentUuid": "8b8f52ae-a635-44cd-a879-d6a387a4c96f",
+          "width": 798,
+          "x": 465,
+          "y": 279,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -129,72 +147,22 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "NewTiledSprite2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 12
-                          },
-                          {
-                            "x": 54,
-                            "y": 12
-                          },
-                          {
-                            "x": 54,
-                            "y": 52
-                          },
-                          {
-                            "x": 0,
-                            "y": 52
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "NewSprite"
+            "objectName": "NewTiledSprite"
           }
         ]
       },
