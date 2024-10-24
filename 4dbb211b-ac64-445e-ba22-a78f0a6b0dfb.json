@@ -66,7 +66,7 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/4dbb211b-ac64-445e-ba22-a78f0a6b0dfb/resources/44d8023be1e96a791005c0f7e0ade3d3ec61237f4fdca60ee83f08f7628df4f6-NewSprite.png",
+        "file": "assets/NewSprite22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
@@ -144,6 +144,204 @@
         "name": "agarre",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HitBoxPlayer1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/HitBoxPlayer1.png\"}",
+        "name": "HitBoxPlayer1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_4.png\"}",
+        "name": "jugador_4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_5.png\"}",
+        "name": "jugador_5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_6.png\"}",
+        "name": "jugador_6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_7.png\"}",
+        "name": "jugador_7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/HitAtack1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HitAtack1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton React.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton React.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/inmovil9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "inmovil9",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -184,22 +382,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 10.869565217391308,
-          "height": 50,
-          "layer": "",
-          "name": "jugador_1",
-          "persistentUuid": "2f4f81a7-d1cc-4304-8583-10f7436e07ac",
-          "width": 50,
-          "x": 639,
-          "y": 578,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "depth": 1,
           "height": 287,
           "keepRatio": true,
@@ -226,6 +408,56 @@
           "x": 1204,
           "y": 577,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "keepRatio": true,
+          "layer": "HitBox",
+          "name": "HitBoxPlayer1",
+          "persistentUuid": "f29cc60b-648b-4885-bb4f-0022d0c4b7ec",
+          "width": 53,
+          "x": 712,
+          "y": 521,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HitAtack1",
+          "persistentUuid": "ecba4e6f-c254-4dba-8630-93ff3a9e02d0",
+          "width": 0,
+          "x": 915,
+          "y": 586,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 300,
+          "keepRatio": true,
+          "layer": "",
+          "name": "jugador_1",
+          "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
+          "width": 385.71428571428567,
+          "x": 588,
+          "y": 352,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -297,13 +529,13 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite2",
+                      "image": "inmovil6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -319,20 +551,128 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 34,
+                            "y": 38
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 56,
+                            "y": 38
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 56,
+                            "y": 70
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "inmovil7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "inmovil8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "inmovil9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
                           }
                         ]
                       ]
@@ -368,20 +708,177 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 34,
+                            "y": 38
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 56,
+                            "y": 38
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 56,
+                            "y": 70
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ataque_Ligero",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ataque_Ligero",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ataque_Ligero2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ataque_Ligero3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ataque_Ligero4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 38
+                          },
+                          {
+                            "x": 56,
+                            "y": 70
+                          },
+                          {
+                            "x": 34,
+                            "y": 70
                           }
                         ]
                       ]
@@ -605,6 +1102,128 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "HitBoxPlayer1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "HitBoxPlayer1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HitBoxPlayer1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "HitAtack1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "HitAtack1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "HitAtack1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -614,10 +1233,16 @@
             "objectName": "jugador_1"
           },
           {
+            "objectName": "HitAtack1"
+          },
+          {
             "objectName": "jugador_2"
           },
           {
             "objectName": "plataforma_principal"
+          },
+          {
+            "objectName": "HitBoxPlayer1"
           }
         ]
       },
@@ -632,12 +1257,19 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "comportamiento 1"
+          "target": "comportamientos"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Ataques"
         }
       ],
       "layers": [
@@ -667,6 +1299,39 @@
               "width": 0
             }
           ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "HitBox",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
@@ -733,7 +1398,7 @@
   "externalEvents": [
     {
       "associatedLayout": "Untitled scene",
-      "name": "comportamiento 1",
+      "name": "comportamientos",
       "events": [
         {
           "colorB": 228,
@@ -1168,6 +1833,24 @@
                 "PlatformerObject",
                 "yes"
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Untitled scene",
+      "name": "Ataques",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ]
         }
