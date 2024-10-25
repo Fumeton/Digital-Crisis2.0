@@ -720,6 +720,15 @@
         "name": "Ataque_Ligero12",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -850,9 +859,128 @@
           "opacity": 128,
           "persistentUuid": "b57ea0c8-7888-403e-8fb1-6b42ce45f931",
           "width": 165,
-          "x": 517,
-          "y": 712,
+          "x": 515,
+          "y": 664,
           "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 53,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_principal",
+          "persistentUuid": "c05b0c57-647a-45d8-a032-f645607e9f34",
+          "width": 148,
+          "x": 1120,
+          "y": 544,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 53,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_principal",
+          "persistentUuid": "59f6f774-17fd-4394-a418-d288886dc6d4",
+          "width": 148,
+          "x": 649,
+          "y": 535,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 53,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_principal",
+          "persistentUuid": "5e371070-d532-4242-a3da-25a2344341f0",
+          "width": 148,
+          "x": 882,
+          "y": 422,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 55,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "jugador_1_",
+          "persistentUuid": "86aba5ce-2414-4f3c-bc94-9ab0b9a1a229",
+          "width": 85,
+          "x": 206,
+          "y": 119,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 239,
+          "keepRatio": true,
+          "layer": "",
+          "name": "platafoma_principal",
+          "persistentUuid": "eaa82fb2-dbfe-4b1f-8610-90ff11ed5cb7",
+          "width": 687,
+          "x": 615,
+          "y": 612,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_flotante",
+          "persistentUuid": "718c07e7-31b3-4ecb-85e0-424a31912549",
+          "width": 230,
+          "x": 625,
+          "y": 472,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_flotante",
+          "persistentUuid": "98dba793-6e5f-4703-b631-81b70a59396f",
+          "width": 230,
+          "x": 1054,
+          "y": 474,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1397,75 +1525,6 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "plataforma_principal",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": false,
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 10,
-              "platformType": "NormalPlatform"
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewSprite2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 1.5
-                          },
-                          {
-                            "x": 63,
-                            "y": 1.5
-                          },
-                          {
-                            "x": 63,
-                            "y": 64
-                          },
-                          {
-                            "x": 1,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "jugador_2",
@@ -1748,6 +1807,197 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "platafoma_principal",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "yGrabOffset": 10,
+              "platformType": "NormalPlatform"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1.5
+                          },
+                          {
+                            "x": 63,
+                            "y": 1.5
+                          },
+                          {
+                            "x": 63,
+                            "y": 64
+                          },
+                          {
+                            "x": 1,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "jugador_1_",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "plataforma_flotante",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -1763,13 +2013,22 @@
             "objectName": "jugador_2"
           },
           {
-            "objectName": "plataforma_principal"
+            "objectName": "platafoma_principal"
           },
           {
             "objectName": "HitBoxPlayer1"
           },
           {
             "objectName": "hitbox_borde_left"
+          },
+          {
+            "objectName": "jugador_1_"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "plataforma_flotante"
           }
         ]
       },
@@ -1780,11 +2039,6 @@
             "includeConfig": 0
           },
           "target": "comportamientos"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -1943,11 +2197,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -2352,6 +2601,11 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -2431,6 +2685,39 @@
               "booleanParameters": {}
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "HUD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -2469,6 +2756,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     }
@@ -3076,21 +3367,13 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BuiltinCommonInstructions::Or"
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
                       },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::Name"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"Ataque_Ligero\""
-                          ]
-                        }
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"Ataque_Ligero\""
                       ]
                     }
                   ],
@@ -3104,41 +3387,6 @@
                         "PlatformerObject",
                         "=",
                         "0"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"quieto\""
                       ]
                     }
                   ]
@@ -3172,6 +3420,33 @@
                         "Animation",
                         "=",
                         "\"Ataque_Ligero\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"quieto\""
                       ]
                     }
                   ]
