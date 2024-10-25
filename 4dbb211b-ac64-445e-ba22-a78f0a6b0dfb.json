@@ -770,7 +770,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.43357743047023733,
+        "zoomFactor": 0.4950840073748888,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1031,11 +1031,11 @@
               "WasJumpKeyReleased": false
             },
             {
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": false,
               "isFolded": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
               "acceleration": 1000,
               "canGoDownFromJumpthru": true,
               "deceleration": 750,
@@ -1955,10 +1955,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "Jumpthru",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
               "yGrabOffset": 0
             }
           ],
@@ -2789,7 +2789,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "jugador 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2825,6 +2824,16 @@
                       "parameters": [
                         "jugador_1",
                         "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Flippable",
+                        ""
                       ]
                     }
                   ]
@@ -2875,6 +2884,16 @@
                       "parameters": [
                         "jugador_1",
                         "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Flippable",
+                        "yes"
                       ]
                     }
                   ]
@@ -3074,7 +3093,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "jugador 2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3135,6 +3153,16 @@
                         "jugador_2",
                         "PlatformerObject"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "Flippable",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -3159,6 +3187,16 @@
                       "parameters": [
                         "jugador_2",
                         "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "Flippable",
+                        "yes"
                       ]
                     }
                   ]
