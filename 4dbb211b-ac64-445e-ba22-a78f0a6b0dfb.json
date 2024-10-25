@@ -342,6 +342,249 @@
         "name": "inmovil9",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/Skeleton Sprite Pack/Skeleton/Skeleton Attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\Skeleton Sprite Pack\\Skeleton\\Skeleton Attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Skeleton Attack16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton Attack16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "quieto",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jugador_16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jugador_16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/agarre2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "agarre2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -448,15 +691,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 300,
+          "depth": 1,
+          "height": 93,
           "keepRatio": true,
           "layer": "",
           "name": "jugador_1",
           "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
-          "width": 385.71428571428567,
-          "x": 588,
-          "y": 352,
+          "width": 94,
+          "x": 781,
+          "y": 545,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -525,17 +768,17 @@
           ],
           "animations": [
             {
-              "name": "inmovil",
+              "name": "quieto",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "inmovil6",
+                      "image": "quieto",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -551,128 +794,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 38
+                            "x": 22,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 38
+                            "x": 77,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 70
+                            "x": 77,
+                            "y": 100
                           },
                           {
-                            "x": 34,
-                            "y": 70
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "inmovil7",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 34,
-                            "y": 38
-                          },
-                          {
-                            "x": 56,
-                            "y": 38
-                          },
-                          {
-                            "x": 56,
-                            "y": 70
-                          },
-                          {
-                            "x": 34,
-                            "y": 70
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "inmovil8",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 34,
-                            "y": 38
-                          },
-                          {
-                            "x": 56,
-                            "y": 38
-                          },
-                          {
-                            "x": 56,
-                            "y": 70
-                          },
-                          {
-                            "x": 34,
-                            "y": 70
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "inmovil9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 34,
-                            "y": 38
-                          },
-                          {
-                            "x": 56,
-                            "y": 38
-                          },
-                          {
-                            "x": 56,
-                            "y": 70
-                          },
-                          {
-                            "x": 34,
-                            "y": 70
+                            "x": 22,
+                            "y": 100
                           }
                         ]
                       ]
@@ -692,7 +827,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "jugador_1",
+                      "image": "agarre2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -708,20 +843,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 38
+                            "x": 22,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 38
+                            "x": 77,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 70
+                            "x": 77,
+                            "y": 100
                           },
                           {
-                            "x": 34,
-                            "y": 70
+                            "x": 22,
+                            "y": 100
                           }
                         ]
                       ]
@@ -735,13 +870,13 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ataque_Ligero",
+                      "image": "jugador_9",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -757,27 +892,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 38
+                            "x": 22,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 38
+                            "x": 77,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 70
+                            "x": 77,
+                            "y": 100
                           },
                           {
-                            "x": 34,
-                            "y": 70
+                            "x": 22,
+                            "y": 100
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ataque_Ligero2",
+                      "image": "jugador_10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -793,27 +928,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 38
+                            "x": 22,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 38
+                            "x": 77,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 70
+                            "x": 77,
+                            "y": 100
                           },
                           {
-                            "x": 34,
-                            "y": 70
+                            "x": 22,
+                            "y": 100
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ataque_Ligero3",
+                      "image": "jugador_11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -829,27 +964,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 38
+                            "x": 22,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 38
+                            "x": 77,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 70
+                            "x": 77,
+                            "y": 100
                           },
                           {
-                            "x": 34,
-                            "y": 70
+                            "x": 22,
+                            "y": 100
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ataque_Ligero4",
+                      "image": "jugador_12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -865,20 +1000,164 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 38
+                            "x": 22,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 38
+                            "x": 77,
+                            "y": 40
                           },
                           {
-                            "x": 56,
-                            "y": 70
+                            "x": 77,
+                            "y": 100
                           },
                           {
-                            "x": 34,
-                            "y": 70
+                            "x": 22,
+                            "y": 100
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "jugador_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 100
+                          },
+                          {
+                            "x": 22,
+                            "y": 100
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "jugador_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 100
+                          },
+                          {
+                            "x": 22,
+                            "y": 100
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "jugador_15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 100
+                          },
+                          {
+                            "x": 22,
+                            "y": 100
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "jugador_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 40
+                          },
+                          {
+                            "x": 77,
+                            "y": 100
+                          },
+                          {
+                            "x": 22,
+                            "y": 100
                           }
                         ]
                       ]
@@ -1461,7 +1740,7 @@
                 "jugador_1",
                 "Animation",
                 "=",
-                "\"inmovil\""
+                "\"quieto\""
               ]
             }
           ]
