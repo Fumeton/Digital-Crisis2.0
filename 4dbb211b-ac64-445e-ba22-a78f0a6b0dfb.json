@@ -729,6 +729,16 @@
         "name": "NewSprite5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "sounds/FailHit.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds\\FailHit.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -998,6 +1008,11 @@
               "name": "agarre",
               "type": "boolean",
               "value": false
+            },
+            {
+              "name": "coldown_ataque_ligero",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -3420,6 +3435,18 @@
                         "Animation",
                         "=",
                         "\"Ataque_Ligero\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds\\FailHit.mp3",
+                        "",
+                        "",
+                        "5"
                       ]
                     }
                   ]
