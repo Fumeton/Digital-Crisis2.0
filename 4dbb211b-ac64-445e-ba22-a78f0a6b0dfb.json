@@ -347,7 +347,7 @@
         "alwaysLoaded": false,
         "file": "Skeleton Attack2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Skeleton Attack2.png\",\"extension\":\".png\"}",
         "name": "Skeleton Attack2.png",
         "smoothed": false,
         "userAdded": false
@@ -491,7 +491,7 @@
         "alwaysLoaded": false,
         "file": "assets/quieto.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/quieto.png\"}",
         "name": "quieto",
         "smoothed": false,
         "userAdded": false
@@ -509,7 +509,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_9.png\"}",
         "name": "jugador_9",
         "smoothed": false,
         "userAdded": false
@@ -518,7 +518,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_10.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_10.png\"}",
         "name": "jugador_10",
         "smoothed": false,
         "userAdded": false
@@ -527,7 +527,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_11.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_11.png\"}",
         "name": "jugador_11",
         "smoothed": false,
         "userAdded": false
@@ -536,7 +536,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_12.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_12.png\"}",
         "name": "jugador_12",
         "smoothed": false,
         "userAdded": false
@@ -545,7 +545,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_13.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_13.png\"}",
         "name": "jugador_13",
         "smoothed": false,
         "userAdded": false
@@ -554,7 +554,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_14.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_14.png\"}",
         "name": "jugador_14",
         "smoothed": false,
         "userAdded": false
@@ -563,7 +563,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_15.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_15.png\"}",
         "name": "jugador_15",
         "smoothed": false,
         "userAdded": false
@@ -572,7 +572,7 @@
         "alwaysLoaded": false,
         "file": "assets/jugador_16.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/jugador_16.png\"}",
         "name": "jugador_16",
         "smoothed": false,
         "userAdded": false
@@ -583,6 +583,141 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "agarre2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/caminar.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/caminar.png\"}",
+        "name": "caminar",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/caminar2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/caminar2.png\"}",
+        "name": "caminar2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "quieto2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "quieto3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/caminar3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "caminar3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/caminar4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "caminar4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero12",
         "smoothed": false,
         "userAdded": false
       }
@@ -616,7 +751,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9296874999999996,
+        "zoomFactor": 0.43357743047023733,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -626,7 +761,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 287,
+          "height": 220,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_principal",
@@ -648,8 +783,8 @@
           "name": "jugador_2",
           "persistentUuid": "c521025c-263a-4dc1-992a-01174e7d398f",
           "width": 50,
-          "x": 1204,
-          "y": 577,
+          "x": 1158,
+          "y": 552,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -665,8 +800,8 @@
           "name": "HitBoxPlayer1",
           "persistentUuid": "f29cc60b-648b-4885-bb4f-0022d0c4b7ec",
           "width": 53,
-          "x": 712,
-          "y": 521,
+          "x": 816,
+          "y": 302,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -681,8 +816,8 @@
           "name": "HitAtack1",
           "persistentUuid": "ecba4e6f-c254-4dba-8630-93ff3a9e02d0",
           "width": 0,
-          "x": 915,
-          "y": 586,
+          "x": 1008,
+          "y": 265,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -692,15 +827,32 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 93,
-          "keepRatio": true,
+          "height": 50,
           "layer": "",
           "name": "jugador_1",
           "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
-          "width": 94,
-          "x": 781,
-          "y": 545,
+          "width": 54,
+          "x": 736,
+          "y": 549,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 59,
+          "keepRatio": true,
+          "layer": "",
+          "name": "hitbox_borde_left",
+          "opacity": 128,
+          "persistentUuid": "b57ea0c8-7888-403e-8fb1-6b42ce45f931",
+          "width": 165,
+          "x": 517,
+          "y": 712,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -708,12 +860,18 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "jugador_1",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "agarre",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -730,13 +888,13 @@
               "WasJumpKeyReleased": false
             },
             {
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
               "isFolded": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1000,
               "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": true,
-              "canGrabWithoutMoving": true,
               "deceleration": 750,
               "gravity": 750,
               "ignoreDefaultControls": true,
@@ -749,21 +907,6 @@
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
-            },
-            {
-              "name": "ThreeDFlip",
-              "type": "ThreeDFlip::ThreeDFlip",
-              "Resizable": "Resizable",
-              "Flippable": "Flippable",
-              "Animation": "Animation",
-              "FlippingMethod": "Mirror",
-              "FrontAnimation": "Front",
-              "BackAnimation": "Back",
-              "Duration": 0,
-              "IsFlipped": false,
-              "Width": 0,
-              "ElapsedTime": 0,
-              "Toggle": false
             }
           ],
           "animations": [
@@ -778,7 +921,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto",
+                      "image": "quieto3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -794,20 +937,105 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
-                            "y": 40
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 77,
-                            "y": 40
+                            "x": 64,
+                            "y": 0
                           },
                           {
-                            "x": 77,
-                            "y": 100
+                            "x": 64,
+                            "y": 64
                           },
                           {
-                            "x": 22,
-                            "y": 100
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "caminar",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "caminar",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "caminar2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
                           }
                         ]
                       ]
@@ -843,19 +1071,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -872,7 +1100,7 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.03333333333333333,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -892,19 +1120,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -928,19 +1156,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -964,19 +1192,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -1000,19 +1228,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -1036,19 +1264,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -1072,19 +1300,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -1108,19 +1336,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -1144,19 +1372,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 76.5,
                             "y": 40
                           },
                           {
-                            "x": 77,
+                            "x": 77.5,
                             "y": 100
                           },
                           {
-                            "x": 22,
+                            "x": 21.5,
                             "y": 100
                           }
                         ]
@@ -1178,10 +1406,10 @@
           "effects": [],
           "behaviors": [
             {
+              "canBeGrabbed": false,
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 10,
-              "canBeGrabbed": true,
               "platformType": "NormalPlatform"
             }
           ],
@@ -1243,7 +1471,13 @@
           "name": "jugador_2",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "agarre",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -1283,7 +1517,7 @@
           ],
           "animations": [
             {
-              "name": "inmovil",
+              "name": "quieto",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1503,6 +1737,17 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "hitbox_borde_left",
+          "texture": "NewTiledSprite4",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -1522,15 +1767,13 @@
           },
           {
             "objectName": "HitBoxPlayer1"
+          },
+          {
+            "objectName": "hitbox_borde_left"
           }
         ]
       },
       "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
         {
           "type": "BuiltinCommonInstructions::Link",
           "include": {
@@ -1549,6 +1792,566 @@
             "includeConfig": 0
           },
           "target": "Ataques"
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "agarre  del borde",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "jugador1",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "hitbox_borde_left",
+                        "Opacity",
+                        "=",
+                        "20"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"agarre_cooldown\"",
+                        "<",
+                        "0.25"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "agarre",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "agarre",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "=",
+                        "525",
+                        "=",
+                        "690"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AdvancedJump::AdvancedJump::ResetAirJumpCounter"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "AdvancedJump",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "agarre",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "hitbox_borde_left",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "agarre",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "agarre",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Space"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"agarre_cooldown\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "agarre",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "s"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "a"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "agarre",
+                                "True",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"agarre_cooldown\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "jugador2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "hitbox_borde_left",
+                        "Opacity",
+                        "=",
+                        "20"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"agarre_cooldown_2\"",
+                        "<",
+                        "0.25"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "agarre",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "agarre",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "=",
+                        "525",
+                        "=",
+                        "690"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AdvancedJump::AdvancedJump::ResetAirJumpCounter"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "AdvancedJump",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "agarre",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "hitbox_borde_left",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "agarre",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "agarre",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Up"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"agarre_cooldown_2\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_2",
+                                "agarre",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Left"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Down"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_2",
+                                "agarre",
+                                "True",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"agarre_cooldown_2\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -1666,10 +2469,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "ThreeDFlip",
-          "type": "ThreeDFlip::ThreeDFlip"
         }
       ]
     }
@@ -1684,436 +2483,569 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "jugador 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Movimiento",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "d",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Space"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "a"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Caida rápida",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsFalling"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "5000"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CanGrabPlatforms"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "750"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CanGrabPlatforms"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "1500"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsJumping"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "s"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Space"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "1000"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::IsGrabbingPlatform"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "jugador_1",
-                "Animation",
-                "=",
-                "\"agarre\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "PlatformBehavior::IsGrabbingPlatform"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "jugador_1",
-                "Animation",
-                "=",
-                "\"quieto\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "d",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateRightKey"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Space"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateJumpKey"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "a"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateLeftKey"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "s"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::Gravity"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject",
-                "=",
-                "3500"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::CanGrabPlatforms"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyReleased"
-              },
-              "parameters": [
-                "",
-                "s"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::Gravity"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject",
-                "=",
-                "750"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::CanGrabPlatforms"
-              },
-              "parameters": [
-                "jugador_1",
-                "PlatformerObject",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "jugador 2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Movimiento",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Up"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Right"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Caida rápida",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsFalling"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "5000"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CanGrabPlatforms"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "750"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CanGrabPlatforms"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "1500"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsJumping"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "s"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Space"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Gravity"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "1000"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::IsGrabbingPlatform"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "jugador_2",
-                "Animation",
-                "=",
-                "\"agarre\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "PlatformBehavior::IsGrabbingPlatform"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "jugador_2",
-                "Animation",
-                "=",
-                "\"inmovil\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Up"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateJumpKey"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Right"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateRightKey"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateLeftKey"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Down"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::Gravity"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject",
-                "=",
-                "3500"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::CanGrabPlatforms"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyReleased"
-              },
-              "parameters": [
-                "",
-                "Down"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::Gravity"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject",
-                "=",
-                "750"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::CanGrabPlatforms"
-              },
-              "parameters": [
-                "jugador_2",
-                "PlatformerObject",
-                "yes"
-              ]
-            }
-          ]
         }
       ]
     },
@@ -2122,16 +3054,133 @@
       "name": "Ataques",
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "jugador1",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "ataque ligero",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"Ataque_Ligero\""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"quieto\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "j"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"Ataque_Ligero\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
             }
-          ]
+          ],
+          "parameters": []
         }
       ]
     }
