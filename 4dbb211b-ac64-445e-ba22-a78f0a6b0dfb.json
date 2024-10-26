@@ -739,6 +739,16 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "sounds/Hit.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds\\Hit.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -781,7 +791,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4633111824513977,
+        "zoomFactor": 0.5117784035210174,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -948,9 +958,9 @@
           "layer": "HUD",
           "name": "porcentaje_2",
           "persistentUuid": "86aba5ce-2414-4f3c-bc94-9ab0b9a1a229",
-          "width": 403,
+          "width": 430,
           "x": 1189,
-          "y": 952,
+          "y": 942,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -1006,6 +1016,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "porcentaje_1",
+          "persistentUuid": "ee1eea67-f213-458d-b75b-17036eedc7c9",
+          "width": 0,
+          "x": 323,
+          "y": 939,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1022,7 +1048,7 @@
               "value": false
             },
             {
-              "name": "coldown_ataque_ligero",
+              "name": "vida",
               "type": "number",
               "value": 0
             }
@@ -1255,7 +1281,7 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.03333333333333333,
+                  "timeBetweenFrames": 0.033333,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -1566,7 +1592,7 @@
             {
               "name": "Vida",
               "type": "number",
-              "value": 10
+              "value": 0
             }
           ],
           "effects": [],
@@ -1926,7 +1952,7 @@
           ],
           "effects": [],
           "behaviors": [],
-          "string": "jugador_2 :",
+          "string": "Hola me bugie unu",
           "font": "",
           "textAlignment": "center",
           "characterSize": 50,
@@ -1949,7 +1975,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "jugador_2 :",
+            "text": "Hola me bugie unu",
             "font": "",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
@@ -2036,6 +2062,48 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "porcentaje_1",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "hola me bugie :C",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "hola me bugie :C",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 50,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2043,6 +2111,9 @@
         "children": [
           {
             "objectName": "jugador_1"
+          },
+          {
+            "objectName": "porcentaje_1"
           },
           {
             "objectName": "HitAtack1"
@@ -2083,19 +2154,12 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "Ataques"
+          "target": "HitBoxes"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "HitBoxes"
         }
       ],
       "layers": [
@@ -2567,7 +2631,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -3430,14 +3493,28 @@
     },
     {
       "associatedLayout": "Untitled scene",
-      "name": "Ataques",
+      "name": "HitBoxes",
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "HitAtack1"
+              ]
+            }
+          ]
+        },
         {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "jugador1",
+          "name": "Jugador 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -3446,11 +3523,51 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "ataque ligero",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"ataque_lateral\"",
+                        ">=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"quieto\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds\\FailHit.mp3",
+                        "",
+                        "0",
+                        "5"
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -3475,7 +3592,7 @@
                         "jugador_1",
                         "PlatformerObject",
                         "=",
-                        "0"
+                        "10"
                       ]
                     }
                   ]
@@ -3513,14 +3630,11 @@
                     },
                     {
                       "type": {
-                        "value": "PlaySound"
+                        "value": "ResetTimer"
                       },
                       "parameters": [
                         "",
-                        "sounds\\FailHit.mp3",
-                        "",
-                        "",
-                        "5"
+                        "\"ataque_lateral\""
                       ]
                     }
                   ]
@@ -3554,62 +3668,303 @@
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "HitAtack1",
+                        "jugador_2",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"Ataque_Ligero\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "Vida",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"ataque_lateral\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds\\Hit.mp3",
+                        "",
+                        "",
+                        "5"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "HitAtack1",
+                        "jugador_2",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"Ataque_Ligero\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "Vida",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"ataque_lateral\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds\\FailHit.mp3",
+                        "",
+                        "",
+                        "5"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"Ataque_Ligero\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "d"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "HitAtack1",
+                        "=",
+                        "jugador_1.X() + 50",
+                        "=",
+                        "jugador_1.Y() + 35"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"Ataque_Ligero\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "a"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "HitAtack1",
+                        "=",
+                        "jugador_1.X() ",
+                        "=",
+                        "jugador_1.Y() + 35"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "HitAtack1",
+                        "=",
+                        "877",
+                        "=",
+                        "-80"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
-                  "actions": []
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "porcentaje_2",
+                        "Text",
+                        "=",
+                        "\"jugador2: \" + jugador_2.Vida + \"%\" "
+                      ]
+                    }
+                  ]
                 }
               ],
               "parameters": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
             }
           ],
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ]
-    },
-    {
-      "associatedLayout": "Untitled scene",
-      "name": "HitBoxes",
-      "events": [
-        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Jugador 1",
+          "name": "Jugador 2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"CooldawnLijero\"",
-                    ">",
-                    "0.033333"
-                  ]
-                }
-              ],
-              "actions": []
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -3619,7 +3974,7 @@
                   },
                   "parameters": [
                     "HitAtack1",
-                    "jugador_2",
+                    "jugador_1",
                     "",
                     "",
                     ""
@@ -3639,7 +3994,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::Name"
                   },
                   "parameters": [
-                    "jugador_1",
+                    "jugador_2",
                     "Animation",
                     "=",
                     "\"Ataque_Ligero\""
@@ -3658,37 +4013,10 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "jugador_2",
-                    "Vida",
+                    "jugador_1",
+                    "vida",
                     "+",
                     "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "NumberObjectVariable"
-                  },
-                  "parameters": [
-                    "jugador_2",
-                    "Vida",
-                    "=",
-                    "0"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "jugador_2",
-                    ""
                   ]
                 }
               ]
@@ -3707,7 +4035,7 @@
                         "value": "AnimatableCapability::AnimatableBehavior::Name"
                       },
                       "parameters": [
-                        "jugador_1",
+                        "jugador_2",
                         "Animation",
                         "=",
                         "\"Ataque_Ligero\""
@@ -3754,7 +4082,7 @@
                         "value": "AnimatableCapability::AnimatableBehavior::Name"
                       },
                       "parameters": [
-                        "jugador_1",
+                        "jugador_2",
                         "Animation",
                         "=",
                         "\"Ataque_Ligero\""
@@ -3783,6 +4111,23 @@
                     "jugador_1.X() ",
                     "=",
                     "jugador_1.Y() + 35"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "porcentaje_1",
+                    "Text",
+                    "=",
+                    "\"jugador1: \" + jugador_1.vida+\"%\" "
                   ]
                 }
               ]
