@@ -749,6 +749,15 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/border_right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "border_right",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -791,7 +800,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5117784035210174,
+        "zoomFactor": 0.4057518905943825,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -834,23 +843,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "HitBox",
-          "name": "HitBoxPlayer1",
-          "persistentUuid": "f29cc60b-648b-4885-bb4f-0022d0c4b7ec",
-          "width": 53,
-          "x": 988,
-          "y": -59,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 36,
           "keepRatio": true,
           "layer": "",
@@ -884,15 +876,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 44,
+          "height": 48,
           "keepRatio": true,
           "layer": "",
           "name": "hitbox_borde_left",
           "opacity": 128,
           "persistentUuid": "b57ea0c8-7888-403e-8fb1-6b42ce45f931",
           "width": 83,
-          "x": 577,
-          "y": 642,
+          "x": 620,
+          "y": 640,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -970,13 +962,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 239,
+          "height": 204,
           "keepRatio": true,
           "layer": "",
           "name": "platafoma_principal",
           "persistentUuid": "eaa82fb2-dbfe-4b1f-8610-90ff11ed5cb7",
-          "width": 687,
-          "x": 615,
+          "width": 628,
+          "x": 674,
           "y": 612,
           "zOrder": 9,
           "numberProperties": [],
@@ -1004,6 +996,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
+          "flippedX": true,
           "height": 41,
           "keepRatio": true,
           "layer": "",
@@ -1019,15 +1012,33 @@
         },
         {
           "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 53,
+          "keepRatio": true,
+          "layer": "",
+          "name": "hitbox_borde_right",
+          "opacity": 128,
+          "persistentUuid": "404e17bf-4b4c-45ab-9ddc-0fae751723f2",
+          "width": 106,
+          "x": 1246,
+          "y": 644,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
+          "layer": "HUD",
           "name": "porcentaje_1",
-          "persistentUuid": "ee1eea67-f213-458d-b75b-17036eedc7c9",
+          "persistentUuid": "07de4741-872f-472f-b91b-529ff5d2adfe",
           "width": 0,
-          "x": 323,
-          "y": 939,
+          "x": 411,
+          "y": 952,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1043,7 +1054,12 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "agarre",
+              "name": "agarre_left",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "agarre_right",
               "type": "boolean",
               "value": false
             },
@@ -1063,7 +1079,7 @@
               "CoyoteTimeFrameDuration": 0.25,
               "CanCoyoteJump": false,
               "WasInTheAir": false,
-              "AirJumpCountMaximum": 2,
+              "AirJumpCountMaximum": 1,
               "AreFloorJumpCountedAsAirJump": false,
               "AirJumpCount": 0,
               "WasJumpKeyReleased": false
@@ -1088,6 +1104,58 @@
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
+            },
+            {
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.9,
+              "DownwardSpeed": 0.9,
+              "FollowOnX": true,
+              "FollowOnY": true,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 2.0247e-320,
+              "LogRightwardSpeed": 2.0247e-320,
+              "LogDownwardSpeed": 2.0247e-320,
+              "LogUpwardSpeed": 2.0247e-320,
+              "DelayedCenterX": 2.0247e-320,
+              "DelayedCenterY": 2.0247e-320,
+              "ForecastHistoryMeanX": 2.0247e-320,
+              "ForecastHistoryMeanY": 2.0247e-320,
+              "ForecastHistoryVarianceX": 2.0247e-320,
+              "ForecastHistoryCovariance": 2.0247e-320,
+              "ForecastHistoryLinearA": 2.0247e-320,
+              "ForecastHistoryLinearB": 2.0247e-320,
+              "ForecastedX": 2.0247e-320,
+              "ForecastedY": 2.0247e-320,
+              "ProjectedNewestX": 2.0247e-320,
+              "ProjectedNewestY": 2.0247e-320,
+              "ProjectedOldestX": 2.0247e-320,
+              "ProjectedOldestY": 2.0247e-320,
+              "ForecastHistoryVarianceY": 2.0247e-320,
+              "Index": 2.0247e-320,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 2.0247e-320,
+              "WaitingSpeedXMax": 2.0247e-320,
+              "WaitingSpeedYMax": 2.0247e-320,
+              "WaitingEnd": 2.0247e-320,
+              "CameraDelayCatchUpDuration": 2.0247e-320,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 9000.000000007454,
+              "OldY": 9000.000000007454,
+              "IsCalledManually": false
             }
           ],
           "animations": [
@@ -1598,14 +1666,13 @@
           "effects": [],
           "behaviors": [
             {
-              "isFolded": true,
               "name": "AdvancedJump",
               "type": "AdvancedJump::AdvancedJump",
               "PlatformerBehavior": "PlatformerObject",
               "CoyoteTimeFrameDuration": 0.25,
               "CanCoyoteJump": false,
               "WasInTheAir": false,
-              "AirJumpCountMaximum": 2,
+              "AirJumpCountMaximum": 1,
               "AreFloorJumpCountedAsAirJump": false,
               "AirJumpCount": 0,
               "WasJumpKeyReleased": false
@@ -1630,6 +1697,58 @@
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
+            },
+            {
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.9,
+              "DownwardSpeed": 0.9,
+              "FollowOnX": true,
+              "FollowOnY": true,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 2.0247e-320,
+              "LogRightwardSpeed": 2.0247e-320,
+              "LogDownwardSpeed": 2.0247e-320,
+              "LogUpwardSpeed": 2.0247e-320,
+              "DelayedCenterX": 2.0247e-320,
+              "DelayedCenterY": 2.0247e-320,
+              "ForecastHistoryMeanX": 2.0247e-320,
+              "ForecastHistoryMeanY": 2.0247e-320,
+              "ForecastHistoryVarianceX": 2.0247e-320,
+              "ForecastHistoryCovariance": 2.0247e-320,
+              "ForecastHistoryLinearA": 2.0247e-320,
+              "ForecastHistoryLinearB": 2.0247e-320,
+              "ForecastedX": 2.0247e-320,
+              "ForecastedY": 2.0247e-320,
+              "ProjectedNewestX": 2.0247e-320,
+              "ProjectedNewestY": 2.0247e-320,
+              "ProjectedOldestX": 2.0247e-320,
+              "ProjectedOldestY": 2.0247e-320,
+              "ForecastHistoryVarianceY": 2.0247e-320,
+              "Index": 2.0247e-320,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 2.0247e-320,
+              "WaitingSpeedXMax": 2.0247e-320,
+              "WaitingSpeedYMax": 2.0247e-320,
+              "WaitingEnd": 2.0247e-320,
+              "CameraDelayCatchUpDuration": 2.0247e-320,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 9000.000000007454,
+              "OldY": 9000.000000007454,
+              "IsCalledManually": false
             }
           ],
           "animations": [
@@ -1694,67 +1813,6 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "agarre",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "HitBoxPlayer1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "HitBoxPlayer1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "HitBoxPlayer1",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2104,6 +2162,17 @@
             "characterSize": 50,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "hitbox_borde_right",
+          "texture": "border_right",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -2125,10 +2194,10 @@
             "objectName": "platafoma_principal"
           },
           {
-            "objectName": "HitBoxPlayer1"
+            "objectName": "hitbox_borde_left"
           },
           {
-            "objectName": "hitbox_borde_left"
+            "objectName": "hitbox_borde_right"
           },
           {
             "objectName": "porcentaje_2"
@@ -2312,6 +2381,10 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
         }
@@ -2337,7 +2410,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Movimiento",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -2364,16 +2436,6 @@
                       "parameters": [
                         "jugador_1",
                         "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Flippable",
-                        ""
                       ]
                     }
                   ]
@@ -2425,7 +2487,24 @@
                         "jugador_1",
                         "PlatformerObject"
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "IsTotalForceAngleAround"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "180",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
                     {
                       "type": {
                         "value": "FlippableCapability::FlippableBehavior::FlipX"
@@ -2434,6 +2513,33 @@
                         "jugador_1",
                         "Flippable",
                         "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "IsTotalForceAngleAround"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "180",
+                        "-180"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Flippable",
+                        "no"
                       ]
                     }
                   ]
@@ -2631,6 +2737,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -2674,8 +2781,30 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre",
+                        "agarre_left",
                         "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "agarre_right",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AdvancedJump::AdvancedJump::SetAirJumpCountMaximum"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "AdvancedJump",
+                        "2",
                         ""
                       ]
                     }
@@ -2690,7 +2819,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre",
+                        "agarre_left",
                         "True",
                         ""
                       ]
@@ -2704,9 +2833,9 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "525",
+                        "600",
                         "=",
-                        "690"
+                        "650"
                       ]
                     },
                     {
@@ -2730,13 +2859,36 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre",
-                        "False",
+                        "agarre_right",
+                        "True",
                         ""
                       ]
                     }
                   ],
-                  "actions": []
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "=",
+                        "1323",
+                        "=",
+                        "650"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AdvancedJump::AdvancedJump::ResetAirJumpCounter"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "AdvancedJump",
+                        ""
+                      ]
+                    }
+                  ]
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -2761,7 +2913,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre",
+                        "agarre_left",
                         "True",
                         ""
                       ]
@@ -2773,41 +2925,27 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BuiltinCommonInstructions::And"
+                        "value": "CollisionNP"
                       },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "agarre",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "Space"
-                          ]
-                        }
+                      "parameters": [
+                        "jugador_1",
+                        "hitbox_borde_right",
+                        "",
+                        "",
+                        ""
                       ]
                     }
                   ],
                   "actions": [
                     {
                       "type": {
-                        "value": "ResetTimer"
+                        "value": "SetBooleanObjectVariable"
                       },
                       "parameters": [
-                        "",
-                        "\"agarre_cooldown\""
+                        "jugador_1",
+                        "agarre_right",
+                        "True",
+                        ""
                       ]
                     }
                   ]
@@ -2833,7 +2971,63 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre",
+                                "agarre_left",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Space"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "agarre_right",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Space"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "agarre_left",
                                 "True",
                                 ""
                               ]
@@ -2870,7 +3064,63 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre",
+                                "agarre_left",
+                                "True",
+                                ""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "agarre_right",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "s"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "d"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "agarre_right",
                                 "True",
                                 ""
                               ]
@@ -2893,6 +3143,17 @@
                   ]
                 }
               ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "when te pegan",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
               "parameters": []
             }
           ],
@@ -3474,19 +3735,19 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "when te pegan",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
             }
           ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "when te pegan",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [],
           "parameters": []
         }
       ]
@@ -3498,16 +3759,7 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "HitAtack1"
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "colorB": 228,
@@ -3586,13 +3838,22 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                        "value": "PlatformBehavior::MaxSpeed"
                       },
                       "parameters": [
                         "jugador_1",
                         "PlatformerObject",
                         "=",
-                        "10"
+                        "25"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::AbortJump"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
                       ]
                     }
                   ]
@@ -3607,6 +3868,15 @@
                       "parameters": [
                         "",
                         "j"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
                       ]
                     },
                     {
@@ -3739,7 +4009,6 @@
                   "conditions": [
                     {
                       "type": {
-                        "inverted": true,
                         "value": "CollisionNP"
                       },
                       "parameters": [
@@ -3929,6 +4198,17 @@
                         "877",
                         "=",
                         "-80"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "250"
                       ]
                     }
                   ]
@@ -8070,6 +8350,7 @@
               "description": "Move the camera closer to the object. This action must be called after the object has moved for the frame.",
               "fullName": "Move the camera closer",
               "functionType": "Action",
+              "group": "Camera configuration",
               "name": "MoveCameraCloser",
               "sentence": "Move the camera closer to _PARAM0_",
               "events": [
