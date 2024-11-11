@@ -617,7 +617,7 @@
         "alwaysLoaded": false,
         "file": "assets/quieto3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/quieto3.png\"}",
         "name": "quieto3",
         "smoothed": false,
         "userAdded": false
@@ -758,6 +758,141 @@
         "name": "border_right",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ataque_Ligero13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Ataque_Ligero13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/caminar5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "caminar5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0001.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0001.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0002.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0002.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0003.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0003.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0004.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0004.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0005.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0005.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0006.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0006.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0007.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0007.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0008.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/player 1/form/animacion_de_quieto/estatico_0008.png\",\"extension\":\".png\"}",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player 1/form/animacion_de_quieto/estatico_0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/quieto4.png\"}",
+        "name": "quieto4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/quieto5.png\"}",
+        "name": "quieto5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/quieto6.png\"}",
+        "name": "quieto6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/quieto7.png\"}",
+        "name": "quieto7",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -767,18 +902,7 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [
-    {
-      "name": "Variable1",
-      "type": "number",
-      "value": 1
-    },
-    {
-      "name": "Variable2",
-      "type": "number",
-      "value": 1
-    }
-  ],
+  "variables": [],
   "layouts": [
     {
       "b": 209,
@@ -800,7 +924,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4057518905943825,
+        "zoomFactor": 0.39251611754882293,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -810,14 +934,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 220,
+          "height": 341,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_principal",
           "persistentUuid": "ef66cf97-2ba1-4fa7-9c5a-6d0580dd92b0",
-          "width": 675,
-          "x": 603,
-          "y": 651,
+          "width": 1066,
+          "x": 628,
+          "y": 507,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -827,13 +951,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 50,
+          "height": 109,
           "layer": "",
           "name": "jugador_2",
           "persistentUuid": "c521025c-263a-4dc1-992a-01174e7d398f",
-          "width": 50,
-          "x": 1158,
-          "y": 552,
+          "width": 120,
+          "x": 1348,
+          "y": 487,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -849,8 +973,8 @@
           "name": "HitAtack1",
           "persistentUuid": "ecba4e6f-c254-4dba-8630-93ff3a9e02d0",
           "width": 35,
-          "x": 877,
-          "y": -80,
+          "x": 1007,
+          "y": -598,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -860,14 +984,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 50,
+          "height": 208,
           "layer": "",
           "name": "jugador_1",
           "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
-          "width": 54,
-          "x": 736,
-          "y": 549,
-          "zOrder": 6,
+          "width": 245,
+          "x": 321,
+          "y": 411,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -876,15 +1000,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 48,
+          "height": 104,
           "keepRatio": true,
           "layer": "",
           "name": "hitbox_borde_left",
           "opacity": 128,
           "persistentUuid": "b57ea0c8-7888-403e-8fb1-6b42ce45f931",
-          "width": 83,
-          "x": 620,
-          "y": 640,
+          "width": 130,
+          "x": 73,
+          "y": 672,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -894,14 +1018,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 53,
+          "height": 116,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_principal",
           "persistentUuid": "c05b0c57-647a-45d8-a032-f645607e9f34",
-          "width": 148,
-          "x": 1120,
-          "y": 544,
+          "width": 353,
+          "x": 1258,
+          "y": 469,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -911,14 +1035,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 53,
+          "height": 116,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_principal",
           "persistentUuid": "59f6f774-17fd-4394-a418-d288886dc6d4",
-          "width": 148,
-          "x": 649,
-          "y": 535,
+          "width": 353,
+          "x": 136,
+          "y": 450,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -928,14 +1052,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 53,
+          "height": 116,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_principal",
           "persistentUuid": "5e371070-d532-4242-a3da-25a2344341f0",
-          "width": 148,
-          "x": 882,
-          "y": 422,
+          "width": 353,
+          "x": 691,
+          "y": 205,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -962,14 +1086,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 204,
+          "height": 443,
           "keepRatio": true,
           "layer": "",
           "name": "platafoma_principal",
           "persistentUuid": "eaa82fb2-dbfe-4b1f-8610-90ff11ed5cb7",
-          "width": 628,
-          "x": 674,
-          "y": 612,
+          "width": 1496,
+          "x": 195,
+          "y": 617,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -979,14 +1103,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 41,
+          "height": 88,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_flotante",
           "persistentUuid": "718c07e7-31b3-4ecb-85e0-424a31912549",
-          "width": 230,
-          "x": 625,
-          "y": 472,
+          "width": 548,
+          "x": 245,
+          "y": 320,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -997,14 +1121,14 @@
           "customSize": true,
           "depth": 1,
           "flippedX": true,
-          "height": 41,
+          "height": 88,
           "keepRatio": true,
           "layer": "",
           "name": "plataforma_flotante",
           "persistentUuid": "98dba793-6e5f-4703-b631-81b70a59396f",
-          "width": 230,
-          "x": 1054,
-          "y": 474,
+          "width": 548,
+          "x": 1101,
+          "y": 317,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1014,15 +1138,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 53,
+          "height": 102,
           "keepRatio": true,
           "layer": "",
           "name": "hitbox_borde_right",
           "opacity": 128,
           "persistentUuid": "404e17bf-4b4c-45ab-9ddc-0fae751723f2",
-          "width": 106,
-          "x": 1246,
-          "y": 644,
+          "width": 119,
+          "x": 1658,
+          "y": 662,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -1037,7 +1161,7 @@
           "name": "porcentaje_1",
           "persistentUuid": "07de4741-872f-472f-b91b-529ff5d2adfe",
           "width": 0,
-          "x": 411,
+          "x": 242,
           "y": 952,
           "zOrder": 10,
           "numberProperties": [],
@@ -1067,6 +1191,11 @@
               "name": "vida",
               "type": "number",
               "value": 0
+            },
+            {
+              "name": "esperando",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
@@ -1085,24 +1214,24 @@
               "WasJumpKeyReleased": false
             },
             {
+              "acceleration": 1500,
+              "canGrabPlatforms": true,
+              "deceleration": 1500,
               "isFolded": true,
+              "ladderClimbingSpeed": 150,
+              "maxSpeed": 500,
               "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "canGrabPlatforms": false,
+              "xGrabTolerance": 0,
               "canGrabWithoutMoving": false,
-              "acceleration": 1000,
               "canGoDownFromJumpthru": true,
-              "deceleration": 750,
               "gravity": 750,
               "ignoreDefaultControls": true,
               "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
               "yGrabOffset": 0
             },
             {
@@ -1156,6 +1285,21 @@
               "OldX": 9000.000000007454,
               "OldY": 9000.000000007454,
               "IsCalledManually": false
+            },
+            {
+              "name": "ThreeDFlip",
+              "type": "ThreeDFlip::ThreeDFlip",
+              "Resizable": "Resizable",
+              "Flippable": "Flippable",
+              "Animation": "Animation",
+              "FlippingMethod": "Mirror",
+              "FrontAnimation": "Front",
+              "BackAnimation": "Back",
+              "Duration": 0,
+              "IsFlipped": false,
+              "Width": 0,
+              "ElapsedTime": 0,
+              "Toggle": false
             }
           ],
           "animations": [
@@ -1164,13 +1308,13 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.5,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto3",
+                      "image": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0001.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1186,20 +1330,321 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 13,
+                            "y": 41.5
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 84,
+                            "y": 41.5
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 84,
+                            "y": 95.5
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "esperando",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "quieto4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "quieto5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "quieto6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "quieto7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 41.5
+                          },
+                          {
+                            "x": 83.5,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 95.5
                           }
                         ]
                       ]
@@ -1219,7 +1664,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "caminar",
+                      "image": "assets\\player 1\\form\\animacion_de_quieto\\estatico_0002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1235,56 +1680,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 13,
+                            "y": 41.5
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 84,
+                            "y": 41.5
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 84,
+                            "y": 95.5
                           },
                           {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "caminar2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
+                            "x": 13,
+                            "y": 95.5
                           }
                         ]
                       ]
@@ -1353,259 +1762,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "jugador_9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_10",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_12",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_13",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_14",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_15",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 21.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 76.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 77.5,
-                            "y": 100
-                          },
-                          {
-                            "x": 21.5,
-                            "y": 100
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "jugador_16",
+                      "image": "Ataque_Ligero13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1666,6 +1823,7 @@
           "effects": [],
           "behaviors": [
             {
+              "isFolded": true,
               "name": "AdvancedJump",
               "type": "AdvancedJump::AdvancedJump",
               "PlatformerBehavior": "PlatformerObject",
@@ -1706,7 +1864,7 @@
               "UpwardSpeed": 0.9,
               "DownwardSpeed": 0.9,
               "FollowOnX": true,
-              "FollowOnY": true,
+              "FollowOnY": false,
               "FollowFreeAreaLeft": 0,
               "FollowFreeAreaRight": 0,
               "FollowFreeAreaTop": 0,
@@ -1749,6 +1907,21 @@
               "OldX": 9000.000000007454,
               "OldY": 9000.000000007454,
               "IsCalledManually": false
+            },
+            {
+              "name": "ThreeDFlip",
+              "type": "ThreeDFlip::ThreeDFlip",
+              "Resizable": "Resizable",
+              "Flippable": "Flippable",
+              "Animation": "Animation",
+              "FlippingMethod": "Mirror",
+              "FrontAnimation": "Front",
+              "BackAnimation": "Back",
+              "Duration": 0,
+              "IsFlipped": false,
+              "Width": 0,
+              "ElapsedTime": 0,
+              "Toggle": false
             }
           ],
           "animations": [
@@ -2387,6 +2560,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "ThreeDFlip",
+          "type": "ThreeDFlip::ThreeDFlip"
         }
       ]
     }
@@ -2405,6 +2582,69 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation",
+                    "=",
+                    "\"esperando\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation",
+                    "=",
+                    "\"quieto\""
+                  ]
+                }
+              ]
+            },
             {
               "colorB": 228,
               "colorG": 176,
@@ -2495,24 +2735,56 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "IsTotalForceAngleAround"
+                        "value": "BuiltinCommonInstructions::And"
                       },
-                      "parameters": [
-                        "jugador_1",
-                        "180",
-                        "0"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::CurrentSpeed"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject",
+                            ">",
+                            "5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "d",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ],
                   "actions": [
                     {
                       "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                        "value": "ThreeDFlip::ThreeDFlip::FlipToSecond"
                       },
                       "parameters": [
                         "jugador_1",
-                        "Flippable",
-                        "yes"
+                        "ThreeDFlip",
+                        "no",
+                        "0.00000000000001",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"caminar\""
                       ]
                     }
                   ]
@@ -2522,24 +2794,56 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "IsTotalForceAngleAround"
+                        "value": "BuiltinCommonInstructions::And"
                       },
-                      "parameters": [
-                        "jugador_1",
-                        "180",
-                        "-180"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PlatformBehavior::CurrentSpeed"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject",
+                            ">",
+                            "5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "a"
+                          ]
+                        }
                       ]
                     }
                   ],
                   "actions": [
                     {
                       "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                        "value": "ThreeDFlip::ThreeDFlip::FlipToSecond"
                       },
                       "parameters": [
                         "jugador_1",
-                        "Flippable",
-                        "no"
+                        "ThreeDFlip",
+                        "yes",
+                        "0.00000000000001",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"caminar\""
                       ]
                     }
                   ]
@@ -3158,597 +3462,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "jugador 2",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Movimiento",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Up"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "PlatformerObject"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Right"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Flippable",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Left"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Caida rápida",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsFalling"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "5000"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::CanGrabPlatforms"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyReleased"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "750"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::CanGrabPlatforms"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsJumping"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "1500"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "PlatformBehavior::IsJumping"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "PlatformerObject"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "s"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "Space"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "1000"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Agarre del borde",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "OpacityCapability::OpacityBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "hitbox_borde_left",
-                        "Opacity",
-                        "=",
-                        "20"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"agarre_cooldown_2\"",
-                        "<",
-                        "0.25"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "agarre",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "agarre",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "=",
-                        "525",
-                        "=",
-                        "690"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AdvancedJump::AdvancedJump::ResetAirJumpCounter"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "AdvancedJump",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "agarre",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "hitbox_borde_left",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "agarre",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "agarre",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "Up"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"agarre_cooldown_2\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "BooleanObjectVariable"
-                              },
-                              "parameters": [
-                                "jugador_2",
-                                "agarre",
-                                "True",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "Left"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "Down"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BooleanObjectVariable"
-                              },
-                              "parameters": [
-                                "jugador_2",
-                                "agarre",
-                                "True",
-                                ""
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"agarre_cooldown_2\""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "when te pegan",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [],
-              "parameters": []
-            }
-          ],
-          "parameters": []
         }
       ]
     },
@@ -3778,639 +3491,8 @@
               "name": "ataque ligero",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"ataque_lateral\"",
-                        ">=",
-                        "1"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"quieto\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "sounds\\FailHit.mp3",
-                        "",
-                        "0",
-                        "5"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"Ataque_Ligero\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::MaxSpeed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "25"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::AbortJump"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "j"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"Ataque_Ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"ataque_lateral\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"quieto\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "jugador_2",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"Ataque_Ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Vida",
-                        "+",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"ataque_lateral\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "sounds\\Hit.mp3",
-                        "",
-                        "",
-                        "5"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "jugador_2",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"Ataque_Ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Vida",
-                        "+",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"ataque_lateral\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "sounds\\FailHit.mp3",
-                        "",
-                        "",
-                        "5"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::Name"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"Ataque_Ligero\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "d"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "=",
-                        "jugador_1.X() + 50",
-                        "=",
-                        "jugador_1.Y() + 35"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::Name"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"Ataque_Ligero\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "a"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "=",
-                        "jugador_1.X() ",
-                        "=",
-                        "jugador_1.Y() + 35"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "=",
-                        "877",
-                        "=",
-                        "-80"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::MaxSpeed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "250"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "porcentaje_2",
-                        "Text",
-                        "=",
-                        "\"jugador2: \" + jugador_2.Vida + \"%\" "
-                      ]
-                    }
-                  ]
-                }
-              ],
+              "events": [],
               "parameters": []
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Jugador 2",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "HitAtack1",
-                    "jugador_1",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "j"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "jugador_2",
-                    "Animation",
-                    "=",
-                    "\"Ataque_Ligero\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberObjectVariable"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "vida",
-                    "+",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::And"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Animation",
-                        "=",
-                        "\"Ataque_Ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "HitAtack1",
-                    "=",
-                    "jugador_1.X() + 50",
-                    "=",
-                    "jugador_1.Y() + 35"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::And"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Animation",
-                        "=",
-                        "\"Ataque_Ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "HitAtack1",
-                    "=",
-                    "jugador_1.X() ",
-                    "=",
-                    "jugador_1.Y() + 35"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "porcentaje_1",
-                    "Text",
-                    "=",
-                    "\"jugador1: \" + jugador_1.vida+\"%\" "
-                  ]
-                }
-              ]
             }
           ],
           "parameters": []
@@ -5837,2228 +4919,6 @@
               "extraInformation": [],
               "hidden": true,
               "name": "Toggle"
-            }
-          ],
-          "sharedPropertyDescriptors": []
-        }
-      ],
-      "eventsBasedObjects": []
-    },
-    {
-      "author": "",
-      "category": "Game mechanic",
-      "extensionNamespace": "",
-      "fullName": "Object spawner area",
-      "helpPath": "",
-      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXBsdXMtb25lIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEwLDhWMTJIMTRWMTRIMTBWMThIOFYxNEg0VjEySDhWOEgxME0xNC41LDYuMDhMMTksNVYxOEgxN1Y3LjRMMTQuNSw3LjlWNi4wOFoiIC8+PC9zdmc+",
-      "name": "ObjectSpawner",
-      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/plus-one.svg",
-      "shortDescription": "Spawn (create) objects periodically.",
-      "version": "1.0.0",
-      "description": [
-        "Spawn objects periodically based on the location of the spawner.  ",
-        "",
-        "If \"random position\" is enabled, objects will spawn in a random position inside the spawner object. ",
-        "This allows the size of the spawner object to define an area that objects will spawn.",
-        "",
-        "It can be used to create:",
-        "- Enemies",
-        "- NPCs",
-        "- Environmental objects",
-        "",
-        "Note: Offset properties were deprecated in version 1.0.0."
-      ],
-      "origin": {
-        "identifier": "ObjectSpawner",
-        "name": "gdevelop-extension-store"
-      },
-      "tags": [
-        "spawn",
-        "spawner",
-        "objects",
-        "create",
-        "timer"
-      ],
-      "authorIds": [
-        "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
-      ],
-      "dependencies": [],
-      "globalVariables": [],
-      "sceneVariables": [],
-      "eventsFunctions": [],
-      "eventsBasedBehaviors": [
-        {
-          "description": "Spawn (create) objects periodically.",
-          "fullName": "Object spawner",
-          "name": "ObjectSpawner",
-          "objectType": "",
-          "eventsFunctions": [
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onCreated",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Object",
-                        "\"__ObjectSpawner.SpawnTimer\""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onActivate",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "UnPauseObjectTimer"
-                      },
-                      "parameters": [
-                        "Object",
-                        "\"__ObjectSpawner.SpawnTimer\""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onDeActivate",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PauseObjectTimer"
-                      },
-                      "parameters": [
-                        "Object",
-                        "\"__ObjectSpawner.SpawnTimer\""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Spawn (create) objects periodically. This action must be run every frame to work. When the max quantity is reached and an instance is deleted, the spawner waits the duration of the spawn period before creating another instance. Spawned objects are automatically linked to the spawner.",
-              "fullName": "Spawn objects periodically",
-              "functionType": "Action",
-              "name": "SpawnObject",
-              "sentence": "Periodically spawn (create) a _PARAM2_ located at spawner _PARAM0_ ",
-              "events": [
-                {
-                  "colorB": 228,
-                  "colorG": 176,
-                  "colorR": 74,
-                  "creationTime": 0,
-                  "name": "Max Alive check",
-                  "source": "",
-                  "type": "BuiltinCommonInstructions::Group",
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::SetPropertyMaxQuantityReached"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            "no"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "Check if max number of instances per spawner has been reached. Always spawn objects if quantity is set to \"0\""
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantity"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            "!=",
-                            "0"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "LinkedObjects::PickObjectsLinkedTo"
-                          },
-                          "parameters": [
-                            "",
-                            "ObjectToSpawn",
-                            "Object",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "Prevent objects from being spawned immediately after deleting an object while at max quantity alive"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "Egal"
-                              },
-                              "parameters": [
-                                "PickedInstancesCount(ObjectToSpawn)",
-                                "<",
-                                "Object.Behavior::PropertyMaxQuantity()"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BuiltinCommonInstructions::Once"
-                              },
-                              "parameters": []
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "ResetObjectTimer"
-                              },
-                              "parameters": [
-                                "Object",
-                                "\"__ObjectSpawner.SpawnTimer\""
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "Check if max number of instances per spawner has been reached"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "Egal"
-                              },
-                              "parameters": [
-                                "PickedInstancesCount(ObjectToSpawn)",
-                                ">=",
-                                "Object.Behavior::PropertyMaxQuantity()"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "ObjectSpawner::ObjectSpawner::SetPropertyMaxQuantityReached"
-                              },
-                              "parameters": [
-                                "Object",
-                                "Behavior",
-                                "yes"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "parameters": []
-                },
-                {
-                  "colorB": 228,
-                  "colorG": 176,
-                  "colorR": 74,
-                  "creationTime": 0,
-                  "name": "Spawning",
-                  "source": "",
-                  "type": "BuiltinCommonInstructions::Group",
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "Reset spawn detection"
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::SetPropertyJustSpawnedAnObject"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            "no"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "Spawn an object when conditions are met. Spawned objects are linked to the spawner that made them"
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantityReached"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "CompareObjectTimer"
-                          },
-                          "parameters": [
-                            "Object",
-                            "\"__ObjectSpawner.SpawnTimer\"",
-                            ">",
-                            "Object.Behavior::PropertySpawnPeriod()"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Or"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "ObjectSpawner::ObjectSpawner::UnlimitedObjectCapacity"
-                              },
-                              "parameters": [
-                                "Object",
-                                "Behavior",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "ObjectSpawner::ObjectSpawner::SpawnerCapacity"
-                              },
-                              "parameters": [
-                                "Object",
-                                "Behavior",
-                                ">",
-                                "0",
-                                ""
-                              ]
-                            }
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ResetObjectTimer"
-                          },
-                          "parameters": [
-                            "Object",
-                            "\"__ObjectSpawner.SpawnTimer\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::SetPropertySpawnerCapacity"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            "-",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::SetPropertyJustSpawnedAnObject"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            "yes"
-                          ]
-                        }
-                      ],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "Spawn at Center Position"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Create"
-                              },
-                              "parameters": [
-                                "",
-                                "ObjectToSpawn",
-                                "Object.BoundingBoxCenterX()",
-                                "Object.BoundingBoxCenterY()",
-                                "Object.Layer()"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "LinkedObjects::LinkObjects"
-                              },
-                              "parameters": [
-                                "",
-                                "ObjectToSpawn",
-                                "Object"
-                              ]
-                            }
-                          ],
-                          "events": [
-                            {
-                              "type": "BuiltinCommonInstructions::Comment",
-                              "color": {
-                                "b": 205,
-                                "g": 211,
-                                "r": 33,
-                                "textB": 0,
-                                "textG": 0,
-                                "textR": 0
-                              },
-                              "comment": "Legacy action that supports deprecated offsets"
-                            },
-                            {
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
-                                {
-                                  "type": {
-                                    "value": "BuiltinCommonInstructions::Or"
-                                  },
-                                  "parameters": [],
-                                  "subInstructions": [
-                                    {
-                                      "type": {
-                                        "value": "ObjectSpawner::ObjectSpawner::PropertyOffsetX"
-                                      },
-                                      "parameters": [
-                                        "Object",
-                                        "Behavior",
-                                        "!=",
-                                        "0"
-                                      ]
-                                    },
-                                    {
-                                      "type": {
-                                        "value": "ObjectSpawner::ObjectSpawner::PropertyOffsetY"
-                                      },
-                                      "parameters": [
-                                        "Object",
-                                        "Behavior",
-                                        "!=",
-                                        "0"
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "SetCenter"
-                                  },
-                                  "parameters": [
-                                    "ObjectToSpawn",
-                                    "=",
-                                    "Object.BoundingBoxCenterX() + Object.Behavior::PropertyOffsetX()",
-                                    "=",
-                                    "Object.BoundingBoxCenterY() + Object.Behavior::PropertyOffsetY()"
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "BuiltinCommonInstructions::Comment",
-                              "color": {
-                                "b": 109,
-                                "g": 230,
-                                "r": 255,
-                                "textB": 0,
-                                "textG": 0,
-                                "textR": 0
-                              },
-                              "comment": "Move to a Random Position (if enabled)"
-                            },
-                            {
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
-                                {
-                                  "type": {
-                                    "value": "ObjectSpawner::ObjectSpawner::RandomPosition"
-                                  },
-                                  "parameters": [
-                                    "Object",
-                                    "Behavior",
-                                    ""
-                                  ]
-                                }
-                              ],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "SetCenter"
-                                  },
-                                  "parameters": [
-                                    "ObjectToSpawn",
-                                    "=",
-                                    "Object.BoundingBoxLeft() + Random(Object.Width())\n",
-                                    "=",
-                                    "Object.BoundingBoxTop() + Random(Object.Height())\n"
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "parameters": []
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Object that will be created",
-                  "name": "ObjectToSpawn",
-                  "type": "objectList"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Change the offset X relative to the center of spawner (in pixels).",
-              "fullName": "Offset on X axis (deprecated)",
-              "functionType": "Action",
-              "name": "SetOffsetX",
-              "private": true,
-              "sentence": "Change the offset X of _PARAM0_ to _PARAM2_ pixels",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyOffsetX"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "=",
-                        "GetArgumentAsNumber(\"Value\")"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Value",
-                  "name": "Value",
-                  "type": "expression"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Change the offset Y relative to the center of spawner (in pixels).",
-              "fullName": "Offset on Y axis (deprecated)",
-              "functionType": "Action",
-              "name": "SetOffsetY",
-              "private": true,
-              "sentence": "Change the offset Y of _PARAM0_ to _PARAM2_ pixels",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyOffsetY"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "=",
-                        "GetArgumentAsNumber(\"Value\")"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Value",
-                  "name": "Value",
-                  "type": "expression"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Change the spawn period (in seconds).",
-              "fullName": "Spawn period",
-              "functionType": "Action",
-              "name": "SetSpawnPeriod",
-              "sentence": "Change the spawn period of _PARAM0_ to _PARAM2_ seconds",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertySpawnPeriod"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "=",
-                        "GetArgumentAsNumber(\"Value\")"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Value",
-                  "name": "Value",
-                  "type": "expression"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Return the offset X relative to the center of spawner (in pixels).",
-              "fullName": "Offset X (deprecated)",
-              "functionType": "Expression",
-              "name": "OffsetX",
-              "private": true,
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertyOffsetX()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Value",
-                  "name": "Value",
-                  "type": "expression"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Return the offset Y relative to the center of spawner (in pixels).",
-              "fullName": "Offset Y (deprecated)",
-              "functionType": "Expression",
-              "name": "OffsetY",
-              "private": true,
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertyOffsetY()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Value",
-                  "name": "Value",
-                  "type": "expression"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Return the spawn period (in seconds).",
-              "fullName": "Spawn period",
-              "functionType": "Expression",
-              "name": "SpawnPeriod",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertySpawnPeriod()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Restart the cooldown of a spawner.",
-              "fullName": "Restart spawning cooldown",
-              "functionType": "Action",
-              "name": "ResetSpawnTimer",
-              "sentence": "Restart the cooldown of _PARAM0_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Object",
-                        "\"__ObjectSpawner.SpawnTimer\""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Return the remaining time before the next spawn (in seconds). Useful for triggering visual and sound effects.",
-              "fullName": "Time before the next spawn",
-              "functionType": "Expression",
-              "name": "TimeBeforeSpawn",
-              "sentence": "_PARAM0_ just spawned an object",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantityReached"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::UnlimitedObjectCapacity"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ObjectSpawner::ObjectSpawner::SpawnerCapacity"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            ">",
-                            "0",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertySpawnPeriod()"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantityReached"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertySpawnPeriod() - Object.ObjectTimerElapsedTime(\"__ObjectSpawner.SpawnTimer\")"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Check if an object has just been created by this spawner. Useful for triggering visual and sound effects.",
-              "fullName": "Object was just spawned",
-              "functionType": "Condition",
-              "name": "ObjectWasJustSpawned",
-              "sentence": "_PARAM0_ just spawned an object",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::PropertyJustSpawnedAnObject"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "True"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "the max objects in the scene (per spawner) of the object. Limits the number of objects in the scene that were created by this spawner. Set this to 0 for no limit.",
-              "fullName": "Max objects in the scene (per spawner)",
-              "functionType": "ExpressionAndCondition",
-              "group": "Object spawner configuration",
-              "name": "MaxQuantity",
-              "sentence": "the max objects in the scene (per spawner)",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertyMaxQuantity()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "ActionWithOperator",
-              "getterName": "MaxQuantity",
-              "name": "SetMaxQuantity",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyMaxQuantity"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "=",
-                        "GetArgumentAsNumber(\"Value\")"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Check if spawner has unlimited capacity.",
-              "fullName": "Unlimited capacity",
-              "functionType": "Condition",
-              "group": "Object spawner configuration",
-              "name": "UnlimitedObjectCapacity",
-              "sentence": "_PARAM0_ has unlimited capacity",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::PropertyUnlimitedCapacity"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "True"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Change unlimited capacity of spawner.",
-              "fullName": "Unlimited object capacity",
-              "functionType": "Action",
-              "group": "Object spawner configuration",
-              "name": "SetUnlimitedObjectCapacity",
-              "sentence": "_PARAM0_ unlimited capacity: _PARAM2_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "GetArgumentAsBoolean"
-                      },
-                      "parameters": [
-                        "\"Value\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyUnlimitedCapacity"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "no"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "GetArgumentAsBoolean"
-                      },
-                      "parameters": [
-                        "\"Value\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyUnlimitedCapacity"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "yes"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "defaultValue": "yes",
-                  "description": "UnlimitedObjectCapacity",
-                  "name": "Value",
-                  "optional": true,
-                  "type": "yesorno"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "the number of objects that can be created by this spawner. This is reduced everytime an objects is spawned.",
-              "fullName": "Spawner capacity",
-              "functionType": "ExpressionAndCondition",
-              "group": "Object spawner configuration",
-              "name": "SpawnerCapacity",
-              "sentence": "the spawner capacity",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Behavior::PropertySpawnerCapacity()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "ActionWithOperator",
-              "getterName": "SpawnerCapacity",
-              "name": "SetSpawnerCapacity",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertySpawnerCapacity"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "=",
-                        "GetArgumentAsNumber(\"Value\")"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Check if using random positions. Useful for making large spawner areas.",
-              "fullName": "Use random positions",
-              "functionType": "Condition",
-              "group": "Object spawner configuration",
-              "name": "RandomPosition",
-              "sentence": "Use random positions inside _PARAM0_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::PropertyRandomPosition"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "True"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Enable (or disable) random positions. Useful for making large spawner areas.",
-              "fullName": "Use random positions",
-              "functionType": "Action",
-              "group": "Object spawner configuration",
-              "name": "SetRandomPosition",
-              "sentence": "Use random positions inside _PARAM0_: _PARAM2_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "GetArgumentAsBoolean"
-                      },
-                      "parameters": [
-                        "\"Value\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyRandomPosition"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "no"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "GetArgumentAsBoolean"
-                      },
-                      "parameters": [
-                        "\"Value\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyRandomPosition"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "yes"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
-                  "type": "behavior"
-                },
-                {
-                  "defaultValue": "yes",
-                  "description": "RandomPosition",
-                  "name": "Value",
-                  "optional": true,
-                  "type": "yesorno"
-                }
-              ],
-              "objectGroups": []
-            }
-          ],
-          "propertyDescriptors": [
-            {
-              "value": "1",
-              "type": "Number",
-              "unit": "Second",
-              "label": "Spawn period",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "name": "SpawnPeriod"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "unit": "Pixel",
-              "label": "Offset X (relative to position of spawner)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "hidden": true,
-              "name": "OffsetX"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "unit": "Pixel",
-              "label": "Offset Y (relative to position of spawner)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "hidden": true,
-              "name": "OffsetY"
-            },
-            {
-              "value": "",
-              "type": "Boolean",
-              "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "hidden": true,
-              "name": "JustSpawnedAnObject"
-            },
-            {
-              "value": "",
-              "type": "Boolean",
-              "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "hidden": true,
-              "name": "MaxQuantityReached"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "Max objects in the scene (per spawner)",
-              "description": "Limits the number of objects in the scene that were created by this spawner. Set this to 0 for no limit.",
-              "group": "",
-              "extraInformation": [],
-              "name": "MaxQuantity"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "Spawner capacity",
-              "description": "Number of objects that can be created by this spawner. This is reduced everytime an objects is spawned.",
-              "group": "",
-              "extraInformation": [],
-              "name": "SpawnerCapacity"
-            },
-            {
-              "value": "true",
-              "type": "Boolean",
-              "label": "Unlimited capacity",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "name": "UnlimitedCapacity"
-            },
-            {
-              "value": "false",
-              "type": "Boolean",
-              "label": "Use random positions",
-              "description": "Objects will be created at a random position inside the spawner. Useful for making large spawner areas.",
-              "group": "",
-              "extraInformation": [],
-              "name": "RandomPosition"
-            }
-          ],
-          "sharedPropertyDescriptors": []
-        }
-      ],
-      "eventsBasedObjects": []
-    },
-    {
-      "author": "D8H",
-      "category": "Movement",
-      "extensionNamespace": "",
-      "fullName": "Stick objects to others",
-      "helpPath": "",
-      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXN0aWNrZXItb3V0bGluZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik01LjUgMkMzLjYgMiAyIDMuNiAyIDUuNVYxOC41QzIgMjAuNCAzLjYgMjIgNS41IDIySDE2TDIyIDE2VjUuNUMyMiAzLjYgMjAuNCAyIDE4LjUgMkg1LjVNNS44IDRIMTguM0MxOS4zIDQgMjAuMSA0LjggMjAuMSA1LjhWMTVIMTguNkMxNi43IDE1IDE1LjEgMTYuNiAxNS4xIDE4LjVWMjBINS44QzQuOCAyMCA0IDE5LjIgNCAxOC4yVjUuOEM0IDQuOCA0LjggNCA1LjggNCIgLz48L3N2Zz4=",
-      "name": "Sticker",
-      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/sticker-outline.svg",
-      "shortDescription": "Make objects follow the position and rotation of the object they are stuck to.",
-      "version": "0.5.1",
-      "description": [
-        "This extension can be useful to:",
-        "* Stick accessories to moving objects",
-        "* Animate a skeleton",
-        "* Delete an object with another one",
-        "",
-        "An example allows to check it out ([open the project online](https://editor.gdevelop.io/?project=example://stick-objects))."
-      ],
-      "origin": {
-        "identifier": "Sticker",
-        "name": "gdevelop-extension-store"
-      },
-      "tags": [
-        "sticker",
-        "stick",
-        "follow",
-        "skeleton",
-        "joint",
-        "pin",
-        "bind",
-        "glue",
-        "tie",
-        "attach",
-        "hold",
-        "paste",
-        "wear"
-      ],
-      "authorIds": [
-        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
-      ],
-      "dependencies": [],
-      "globalVariables": [],
-      "sceneVariables": [],
-      "eventsFunctions": [
-        {
-          "description": "Define helper classes JavaScript code.",
-          "fullName": "Define helper classes",
-          "functionType": "Action",
-          "name": "DefineHelperClasses",
-          "private": true,
-          "sentence": "Define helper classes JavaScript code",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::JsCode",
-              "inlineCode": [
-                "if (gdjs._stickerExtension) {",
-                "    return;",
-                "}",
-                "",
-                "// Unstick from deleted objects.",
-                "gdjs.registerObjectDeletedFromSceneCallback(function (runtimeScene, deletedObject) {",
-                "    const extension = runtimeScene._stickerExtension;",
-                "    if (!extension) {",
-                "        return;",
-                "    }",
-                "    const allStickers = runtimeScene._stickerExtension.allStickers;",
-                "    for (const behavior of allStickers) {",
-                "        const sticker = behavior._sticker;",
-                "        if (sticker.isStuckTo(deletedObject)) {",
-                "            if (behavior._getIsDestroyedWithParent()) {",
-                "                behavior.owner.deleteFromScene(runtimeScene);",
-                "            }",
-                "            sticker.unstick();",
-                "        }",
-                "    }",
-                "});",
-                "",
-                "class Sticker {",
-                "    /** @type {gdjs.RuntimeBehavior} */",
-                "    behavior;",
-                "    /** @type {gdjs.RuntimeObject | null} */",
-                "    basisObject;",
-                "    followingDoneThisFrame = false;",
-                "    relativeX = 0;",
-                "    relativeY = 0;",
-                "    relativeAngle = 0;",
-                "    relativeRotatedX = 0;",
-                "    relativeRotatedY = 0;",
-                "    basisOldX = 0;",
-                "    basisOldY = 0;",
-                "    basisOldAngle = 0;",
-                "    basisOldWidth = 0;",
-                "    basisOldHeight = 0;",
-                "    basisOldCenterXInScene = 0;",
-                "    basisOldCenterYInScene = 0;",
-                "",
-                "    /**",
-                "     * @param {gdjs.RuntimeBehavior} behavior",
-                "     */",
-                "    constructor(behavior) {",
-                "        this.behavior = behavior;",
-                "    }",
-                "",
-                "    /**",
-                "     * @param {gdjs.RuntimeObject} basisObject",
-                "     */",
-                "    isStuckTo(basisObject) {",
-                "        return this.basisObject === basisObject;",
-                "    }",
-                "",
-                "    /**",
-                "     * @param {gdjs.RuntimeObject} basisObject",
-                "     */",
-                "    stickTo(basisObject) {",
-                "        this.basisObject = basisObject;",
-                "        this.updateOldCoordinates();",
-                "        this.updateRelativeCoordinates();",
-                "    }",
-                "",
-                "    unstick() {",
-                "        this.basisObject = null;",
-                "    }",
-                "",
-                "    onStepPreEvents() {",
-                "        this.followingDoneThisFrame = false;",
-                "    }",
-                "",
-                "    /**",
-                "     * Update the coordinates in the basisObject basis.",
-                "     * ",
-                "     * It uses the basisObject coordinates from the previous frame.",
-                "     * This way, the sticker can move relatively to it and still",
-                "     * follow basisObject.",
-                "     * ",
-                "     * @param {gdjs.RuntimeObject} basisObject",
-                "     */",
-                "    updateRelativeCoordinates() {",
-                "        const object = this.behavior.owner;",
-                "",
-                "        // Update relative coordinates",
-                "        this.relativeX = object.getX() - this.basisOldX;",
-                "        this.relativeY = object.getY() - this.basisOldY;",
-                "        if (!this.behavior._getOnlyFollowPosition()) {",
-                "            this.relativeAngle = object.getAngle() - this.basisOldAngle;",
-                "            this.relativeWidth = object.getWidth() / this.basisOldWidth;",
-                "            this.relativeHeight = object.getHeight() / this.basisOldHeight;",
-                "            const deltaX = object.getCenterXInScene() - this.basisOldCenterXInScene;",
-                "            const deltaY = object.getCenterYInScene() - this.basisOldCenterYInScene;",
-                "            const angle = this.basisOldAngle * Math.PI / 180;",
-                "            this.relativeRotatedX = (deltaX * Math.cos(angle) + deltaY * Math.sin(angle)) / this.basisOldWidth;",
-                "            this.relativeRotatedY = (-deltaX * Math.sin(angle) + deltaY * Math.cos(angle)) / this.basisOldHeight;",
-                "",
-                "            // Save initial values to avoid calculus and rounding errors",
-                "            this.basisOriginalWidth = this.basisObject.getWidth();",
-                "            this.basisOriginalHeight = this.basisObject.getHeight();",
-                "            this.basisOriginalAngle = this.basisObject.getAngle();",
-                "        }",
-                "    }",
-                "",
-                "    /**",
-                "     * Copy the coordinates to use it the next frame.",
-                "     */",
-                "    updateOldCoordinates() {",
-                "        const object = this.behavior.owner;",
-                "",
-                "        this.ownerOldX = object.getX();",
-                "        this.ownerOldY = object.getY();",
-                "",
-                "        this.basisOldX = this.basisObject.getX();",
-                "        this.basisOldY = this.basisObject.getY();",
-                "",
-                "        if (!this.behavior._getOnlyFollowPosition()) {",
-                "            this.ownerOldAngle = object.getAngle();",
-                "            this.ownerOldWidth = object.getWidth();",
-                "            this.ownerOldHeight = object.getHeight();",
-                "",
-                "            this.basisOldAngle = this.basisObject.getAngle();",
-                "            this.basisOldWidth = this.basisObject.getWidth();",
-                "            this.basisOldHeight = this.basisObject.getHeight();",
-                "            this.basisOldCenterXInScene = this.basisObject.getCenterXInScene();",
-                "            this.basisOldCenterYInScene = this.basisObject.getCenterYInScene();",
-                "        }",
-                "    }",
-                "",
-                "    /**",
-                "     * Follow the basisObject (called in doStepPostEvents).",
-                "     * ",
-                "     * This method is also called by children to ensure",
-                "     * parents are updated first.",
-                "     */",
-                "    followBasisObject() {",
-                "        if (this.followingDoneThisFrame) {",
-                "            return;",
-                "        }",
-                "        this.followingDoneThisFrame = true;",
-                "        const basisObject = this.basisObject;",
-                "        if (basisObject) {",
-                "            // If the behavior on the basis object has a different name,",
-                "            // the objects will still follow their basis objects",
-                "            // but frame delays could happen.",
-                "            const behaviorName = this.behavior.getName();",
-                "            if (basisObject.hasBehavior(behaviorName)) {",
-                "                const basisBehavior = basisObject.getBehavior(behaviorName);",
-                "                if (basisBehavior.type === this.behavior.type) {",
-                "                    // Follow parents 1st to avoid frame delays",
-                "                    basisBehavior._sticker.followBasisObject();",
-                "                }",
-                "            }",
-                "",
-                "            const object = this.behavior.owner;",
-                "",
-                "            if (this.behavior._getOnlyFollowPosition()) {",
-                "                if (object.getX() !== this.ownerOldX",
-                "                    || object.getY() !== this.ownerOldY) {",
-                "                    this.updateRelativeCoordinates();",
-                "                }",
-                "",
-                "                if (this.basisOldX !== basisObject.getX() ||",
-                "                    this.basisOldY !== basisObject.getY()) {",
-                "                    object.setPosition(",
-                "                        basisObject.getX() + this.relativeX,",
-                "                        basisObject.getY() + this.relativeY);",
-                "                }",
-                "            } else {",
-                "                if (object.getX() !== this.ownerOldX",
-                "                    || object.getY() !== this.ownerOldY",
-                "                    || object.getAngle() !== this.ownerOldAngle",
-                "                    || object.getWidth() !== this.ownerOldWidth",
-                "                    || object.getHeight() !== this.ownerOldHeight) {",
-                "                    this.updateRelativeCoordinates();",
-                "                }",
-                "",
-                "                // Follow basisObject",
-                "                if (basisObject.getAngle() === this.basisOriginalAngle && this.basisOriginalAngle === 0) {",
-                "                    if (basisObject.getWidth() === this.basisOriginalWidth ||",
-                "                        basisObject.getHeight() === this.basisOriginalHeight) {",
-                "                        if (this.basisOldX !== basisObject.getX() ||",
-                "                            this.basisOldY !== basisObject.getY()) {",
-                "                            object.setPosition(",
-                "                                basisObject.getX() + this.relativeX,",
-                "                                basisObject.getY() + this.relativeY);",
-                "                        }",
-                "                    } else {",
-                "                        object.setCenterPositionInScene(",
-                "                            basisObject.getCenterXInScene() + this.relativeRotatedX * basisObject.getWidth(),",
-                "                            basisObject.getCenterYInScene() + this.relativeRotatedY * basisObject.getHeight());",
-                "                    }",
-                "                } else {",
-                "                    object.setAngle(basisObject.getAngle() + this.relativeAngle);",
-                "",
-                "                    const deltaX = this.relativeRotatedX * basisObject.getWidth();",
-                "                    const deltaY = this.relativeRotatedY * basisObject.getHeight();",
-                "                    const angle = -basisObject.getAngle() * Math.PI / 180;",
-                "                    object.setX(basisObject.getCenterXInScene() + object.getX() - object.getCenterXInScene() + deltaX * Math.cos(angle) + deltaY * Math.sin(angle));",
-                "                    object.setY(basisObject.getCenterYInScene() + object.getY() - object.getCenterYInScene() - deltaX * Math.sin(angle) + deltaY * Math.cos(angle));",
-                "                }",
-                "                // Unproportional dimensions changes won't work as expected",
-                "                // if the object angle is not null but nothing more can be done",
-                "                // because there is no full affine transformation on objects.",
-                "                if (basisObject.getWidth() !== this.basisOriginalWidth) {",
-                "                    object.setWidth(this.relativeWidth * basisObject.getWidth());",
-                "                }",
-                "                if (basisObject.getHeight() !== this.basisOriginalHeight) {",
-                "                    object.setHeight(this.relativeHeight * basisObject.getHeight());",
-                "                }",
-                "            }",
-                "",
-                "            this.updateOldCoordinates();",
-                "        }",
-                "    }",
-                "}",
-                "",
-                "gdjs._stickerExtension = {",
-                "    Sticker",
-                "}"
-              ],
-              "parameterObjects": "",
-              "useStrict": true,
-              "eventsSheetExpanded": true
-            }
-          ],
-          "parameters": [],
-          "objectGroups": []
-        },
-        {
-          "description": "Check if the object is stuck to another object.",
-          "fullName": "Is stuck to another object",
-          "functionType": "Condition",
-          "name": "IsStuck",
-          "sentence": "_PARAM1_ is stuck to _PARAM3_",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::JsCode",
-              "inlineCode": [
-                "const stickerBehaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
-                "const stickerObjectsLists = eventsFunctionContext.getObjectsLists(\"Object\");",
-                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
-                "const basisObjectsLists = eventsFunctionContext.getObjectsLists(\"BasisObject\");",
-                "",
-                "eventsFunctionContext.returnValue = gdjs.evtTools.object.twoListsTest(",
-                "  (stickerObject, basisObject) => {",
-                "    const sticker = stickerObject.getBehavior(stickerBehaviorName)._sticker;",
-                "    return sticker.isStuckTo(basisObject);",
-                "  },",
-                "  stickerObjectsLists,",
-                "  basisObjectsLists,",
-                "  false",
-                ");"
-              ],
-              "parameterObjects": "",
-              "useStrict": true,
-              "eventsSheetExpanded": true
-            }
-          ],
-          "parameters": [
-            {
-              "description": "Sticker",
-              "name": "Object",
-              "type": "objectList"
-            },
-            {
-              "description": "Sticker behavior",
-              "name": "Behavior",
-              "supplementaryInformation": "Sticker::Sticker",
-              "type": "behavior"
-            },
-            {
-              "description": "Basis",
-              "name": "BasisObject",
-              "type": "objectList"
-            }
-          ],
-          "objectGroups": []
-        }
-      ],
-      "eventsBasedBehaviors": [
-        {
-          "description": "Stick the object to another. Use the action to stick the object, or unstick it later.",
-          "fullName": "Sticker",
-          "name": "Sticker",
-          "objectType": "",
-          "eventsFunctions": [
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onCreated",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Sticker::DefineHelperClasses"
-                      },
-                      "parameters": [
-                        "",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const Sticker = gdjs._stickerExtension.Sticker;",
-                    "",
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "behavior._sticker = new Sticker(behavior);",
-                    "",
-                    "// Set up the scene sticker objects list - if not done already.",
-                    "runtimeScene._stickerExtension = runtimeScene._stickerExtension || {",
-                    "    allStickers: new Set(),",
-                    "};",
-                    "// Register this object as a sticker.",
-                    "runtimeScene._stickerExtension.allStickers.add(behavior);",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "doStepPreEvents",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "behavior._sticker.onStepPreEvents();"
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": false
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "doStepPostEvents",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "behavior._sticker.followBasisObject();"
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Stick on another object.",
-              "fullName": "Stick",
-              "functionType": "Action",
-              "name": "Stick",
-              "sentence": "Stick _PARAM0_ to _PARAM2_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const object = objects[0];",
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const basisObjects = eventsFunctionContext.getObjects(\"BasisObject\");",
-                    "",
-                    "if (basisObjects.length === 0) return;",
-                    "// An object can stick to only one object.",
-                    "const basisObject = basisObjects[0];",
-                    "object.getBehavior(behaviorName)._sticker.stickTo(basisObject);",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                },
-                {
-                  "description": "Object to stick to",
-                  "name": "BasisObject",
-                  "type": "objectList"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Unstick from the object it was stuck to.",
-              "fullName": "Unstick",
-              "functionType": "Action",
-              "name": "Unstick",
-              "sentence": "Unstick _PARAM0_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const object = objects[0];",
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "object.getBehavior(behaviorName)._sticker.unstick();",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onDestroy",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
-                    "const object = objects[0];",
-                    "const behavior = object.getBehavior(behaviorName);",
-                    "",
-                    "runtimeScene._stickerExtension.allStickers.delete(behavior._sticker);",
-                    ""
-                  ],
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": true
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "Sticker::Sticker",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            }
-          ],
-          "propertyDescriptors": [
-            {
-              "value": "",
-              "type": "Boolean",
-              "label": "Only follow the position",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "name": "OnlyFollowPosition"
-            },
-            {
-              "value": "",
-              "type": "Boolean",
-              "label": "Destroy when the object it's stuck on is destroyed",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
-              "name": "IsDestroyedWithParent"
             }
           ],
           "sharedPropertyDescriptors": []
