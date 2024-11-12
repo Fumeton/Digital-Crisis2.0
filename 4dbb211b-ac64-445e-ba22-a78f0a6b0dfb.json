@@ -5784,23 +5784,6 @@
             "includeConfig": 0
           },
           "target": "golpes"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "HitAtack1",
-                "Opacity",
-                "=",
-                "15"
-              ]
-            }
-          ]
         }
       ],
       "layers": [
@@ -6070,34 +6053,24 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::And"
+                    "value": "KeyPressed"
                   },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Acceleration"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        ">",
-                        "10"
-                      ]
-                    }
+                  "parameters": [
+                    "",
+                    "d"
                   ]
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject"
+                  ]
+                },
                 {
                   "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
@@ -6111,13 +6084,97 @@
                 },
                 {
                   "type": {
-                    "value": "PlatformBehavior::SimulateRightKey"
+                    "value": "PlatformBehavior::Acceleration"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject",
+                    "=",
+                    "500"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
                   },
                   "parameters": [
                     "jugador_1",
                     "PlatformerObject"
                   ]
                 },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation",
+                    "=",
+                    "\"caminar\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::Acceleration"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject",
+                    "=",
+                    "500"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CurrentSpeed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "<",
+                        "1000"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "d"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
                 {
                   "type": {
                     "value": "FlippableCapability::FlippableBehavior::FlipX"
@@ -6150,40 +6207,19 @@
                     },
                     {
                       "type": {
-                        "inverted": true,
                         "value": "PlatformBehavior::CurrentSpeed"
                       },
                       "parameters": [
                         "jugador_1",
                         "PlatformerObject",
-                        ">",
-                        "10"
+                        "<",
+                        "1000"
                       ]
                     }
                   ]
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Animation",
-                    "=",
-                    "\"caminar\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlatformBehavior::SimulateLeftKey"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "PlatformerObject"
-                  ]
-                },
                 {
                   "type": {
                     "value": "FlippableCapability::FlippableBehavior::FlipX"
@@ -6815,6 +6851,23 @@
       "name": "golpes",
       "events": [
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "HitAtack1",
+                "Opacity",
+                "=",
+                "25"
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -6890,30 +6943,8 @@
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "j"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "golpe_ligero",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ]
+                  "conditions": [],
+                  "actions": []
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -6926,25 +6957,29 @@
                       "subInstructions": [
                         {
                           "type": {
-                            "value": "BooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "golpe_ligero",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
                             "value": "KeyPressed"
                           },
                           "parameters": [
                             "",
-                            "d"
+                            "j"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsOnFloor"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject"
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -6957,119 +6992,6 @@
                         "Animation",
                         "=",
                         "\"golpe ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "golpe_ligero",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "golpe_ligero",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "a"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "golpe_ligero",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "golpe_ligero",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "1"
                       ]
                     }
                   ]
@@ -7137,6 +7059,85 @@
                       "parameters": [
                         "HitAtack1",
                         ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "j"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsOnFloor"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"golpe ligero\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "golpe_ligero",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject",
+                        "=",
+                        "1"
                       ]
                     }
                   ]
