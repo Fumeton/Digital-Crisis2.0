@@ -1577,6 +1577,708 @@
         "name": "quieto72",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/esperando.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\esperando.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/esperando2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\esperando2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/esperando3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\esperando3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto23.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto24.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto26.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto27.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto28.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto29.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto30.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto31.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto32.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto33.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto34.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto35.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto36.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto37.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto38.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto39.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto40.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto41.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto42.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto43.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto44.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto45.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto46.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto47.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto48.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto49.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto50.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto51.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto52.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto53.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto54.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto55.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto56.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto56.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto57.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto58.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto59.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto60.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto60.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto61.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto61.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto62.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto63.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto63.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto64.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto65.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto65.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto66.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto66.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto67.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto67.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto68.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto68.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto69.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto69.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto70.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto70.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto71.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto71.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/quieto72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\quieto72.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/animacion_de_quieto/estatico.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\animacion_de_quieto\\estatico.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/correr/correr_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\correr\\correr_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/correr/correr_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\correr\\correr_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/correr/correr_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\correr\\correr_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite5",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1608,7 +2310,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6455105703311489,
+        "zoomFactor": 0.4481978045410363,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1657,8 +2359,8 @@
           "name": "HitAtack1",
           "persistentUuid": "ecba4e6f-c254-4dba-8630-93ff3a9e02d0",
           "width": 35,
-          "x": 1007,
-          "y": -598,
+          "x": 1115,
+          "y": -694,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1668,13 +2370,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 225,
+          "height": 206,
           "layer": "",
           "name": "jugador_1",
           "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
-          "width": 225,
-          "x": 331,
-          "y": 409,
+          "width": 183,
+          "x": 380,
+          "y": 417,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1851,6 +2553,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "8347f71a-355f-4b66-b391-92e3d038e898",
+          "width": 2112,
+          "x": -168,
+          "y": -644,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1998,7 +2717,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto35",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2015,18 +2734,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2034,7 +2753,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto36",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2051,18 +2770,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2070,7 +2789,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto37",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2087,18 +2806,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2106,7 +2825,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto38",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2123,18 +2842,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2142,7 +2861,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto39",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2159,18 +2878,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2178,7 +2897,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto40",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2195,18 +2914,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2214,7 +2933,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto41",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2231,18 +2950,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2250,7 +2969,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto42",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2267,18 +2986,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2286,7 +3005,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto43",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2303,18 +3022,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2322,7 +3041,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto44",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2339,18 +3058,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2358,7 +3077,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto45",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2375,18 +3094,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2394,7 +3113,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto46",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2411,18 +3130,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2430,7 +3149,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto47",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2447,18 +3166,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2466,7 +3185,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto48",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2483,18 +3202,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2502,7 +3221,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto49",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2519,18 +3238,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2538,7 +3257,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto50",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2555,18 +3274,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2574,7 +3293,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto51",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2591,18 +3310,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2610,7 +3329,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto52",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto67.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2627,18 +3346,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2646,7 +3365,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto53",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto68.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2663,18 +3382,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2682,7 +3401,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto54",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto69.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2699,18 +3418,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2718,7 +3437,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto55",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto70.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2735,18 +3454,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2754,7 +3473,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto56",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto71.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2771,18 +3490,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -2790,7 +3509,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto57",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto72.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2807,558 +3526,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
                             "y": 95.5
                           },
                           {
                             "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto58",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
+                            "y": 43
                           },
                           {
-                            "x": 83.5,
-                            "y": 41.5
+                            "x": 83,
+                            "y": 43
                           },
                           {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto59",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto60",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto61",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto62",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto63",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto64",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto65",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto66",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto67",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto68",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto69",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto70",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto71",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "quieto72",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 83.5,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -3379,7 +3558,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\player 1\\form\\correr\\correr_0002.png",
+                      "image": "assets\\form\\correr\\correr_0002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3396,18 +3575,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 84,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 84,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -3415,7 +3594,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\player 1\\form\\correr\\correr_0003.png",
+                      "image": "assets\\form\\correr\\correr_0003.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3432,18 +3611,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 84,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 84,
                             "y": 95.5
                           },
                           {
                             "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -3451,7 +3630,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\player 1\\form\\correr\\correr_0004.png",
+                      "image": "assets\\form\\correr\\correr_0004.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3468,54 +3647,18 @@
                         [
                           {
                             "x": 13,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 84,
-                            "y": 41.5
-                          },
-                          {
-                            "x": 84,
                             "y": 95.5
                           },
                           {
                             "x": 13,
-                            "y": 95.5
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\player 1\\form\\correr\\correr_0005.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 41.5
+                            "y": 43
                           },
                           {
-                            "x": 84,
-                            "y": 41.5
+                            "x": 83,
+                            "y": 43
                           },
                           {
-                            "x": 84,
-                            "y": 95.5
-                          },
-                          {
-                            "x": 13,
+                            "x": 83,
                             "y": 95.5
                           }
                         ]
@@ -3552,20 +3695,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 21.5,
-                            "y": 40
+                            "x": 13,
+                            "y": 95.5
                           },
                           {
-                            "x": 76.5,
-                            "y": 40
+                            "x": 13,
+                            "y": 43
                           },
                           {
-                            "x": 77.5,
-                            "y": 100
+                            "x": 83,
+                            "y": 43
                           },
                           {
-                            "x": 21.5,
-                            "y": 100
+                            "x": 83,
+                            "y": 95.5
                           }
                         ]
                       ]
@@ -3575,17 +3718,16 @@
               ]
             },
             {
-              "name": "Ataque_Ligero",
+              "name": "prueba",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.033333,
+                  "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ataque_Ligero13",
+                      "image": "assets\\form\\animacion_de_quieto\\quieto68.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3601,20 +3743,56 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 21.5,
-                            "y": 40
+                            "x": 13,
+                            "y": 95.5
                           },
                           {
-                            "x": 76.5,
-                            "y": 40
+                            "x": 13,
+                            "y": 43
                           },
                           {
-                            "x": 77.5,
-                            "y": 100
+                            "x": 83,
+                            "y": 43
                           },
                           {
-                            "x": 21.5,
-                            "y": 100
+                            "x": 83,
+                            "y": 95.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\animacion_de_quieto\\quieto70.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 95.5
+                          },
+                          {
+                            "x": 13,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 43
+                          },
+                          {
+                            "x": 83,
+                            "y": 95.5
                           }
                         ]
                       ]
@@ -4169,6 +4347,17 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite2",
+          "texture": "NewTiledSprite5",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -4176,6 +4365,9 @@
         "children": [
           {
             "objectName": "jugador_1"
+          },
+          {
+            "objectName": "NewTiledSprite2"
           },
           {
             "objectName": "porcentaje_1"
@@ -4224,7 +4416,30 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "SmoothCamera::SmoothCamera::SetFollowOnX"
+              },
+              "parameters": [
+                "jugador_1",
+                "SmoothCamera",
+                "yes",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SmoothCamera::SmoothCamera::SetFollowOnX"
+              },
+              "parameters": [
+                "jugador_2",
+                "SmoothCamera",
+                "yes",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -4434,11 +4649,6 @@
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
-            },
-            {
               "colorB": 228,
               "colorG": 176,
               "colorR": 74,
@@ -4540,7 +4750,7 @@
                             "jugador_1",
                             "PlatformerObject",
                             ">",
-                            "5"
+                            "10"
                           ]
                         },
                         {
@@ -4600,7 +4810,7 @@
                             "jugador_1",
                             "PlatformerObject",
                             ">",
-                            "5"
+                            "10"
                           ]
                         },
                         {
