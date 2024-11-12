@@ -3440,6 +3440,78 @@
         "name": "caminar16",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpe ligero32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe ligero32",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3471,7 +3543,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.47893418845352564,
+        "zoomFactor": 0.36732575450588284,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3519,8 +3591,8 @@
           "name": "jugador_1",
           "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
           "width": 400,
-          "x": 426,
-          "y": 111,
+          "x": 745,
+          "y": 261,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -3876,8 +3948,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3912,8 +3984,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3948,8 +4020,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3984,8 +4056,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4020,8 +4092,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4056,8 +4128,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4092,8 +4164,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4128,8 +4200,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4164,8 +4236,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4200,8 +4272,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4236,8 +4308,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4272,8 +4344,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4308,8 +4380,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4344,8 +4416,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4380,8 +4452,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4416,8 +4488,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4452,8 +4524,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4488,8 +4560,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4524,8 +4596,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4560,8 +4632,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4609,8 +4681,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4645,8 +4717,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4681,8 +4753,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4717,8 +4789,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4766,14 +4838,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 112,
-                        "y": 47
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 75,
-                        "y": 85
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
@@ -4807,16 +4879,16 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.05,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero17",
+                      "image": "golpe ligero25",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4847,12 +4919,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero18",
+                      "image": "golpe ligero26",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4883,12 +4955,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero19",
+                      "image": "golpe ligero27",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4919,12 +4991,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero20",
+                      "image": "golpe ligero28",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4955,12 +5027,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero21",
+                      "image": "golpe ligero29",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4991,12 +5063,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero22",
+                      "image": "golpe ligero30",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5027,12 +5099,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero23",
+                      "image": "golpe ligero31",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5063,12 +5135,12 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe ligero24",
+                      "image": "golpe ligero32",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 165,
+                        "y": 75
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5716,7 +5788,19 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "HitAtack1",
+                "Opacity",
+                "=",
+                "15"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -5913,6 +5997,54 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"golpe ligero\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation",
+                    "=",
+                    "\"quieto\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "KeyPressed"
                   },
                   "parameters": [
@@ -5988,14 +6120,12 @@
                 },
                 {
                   "type": {
-                    "value": "ThreeDFlip::ThreeDFlip::FlipToSecond"
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
                   },
                   "parameters": [
                     "jugador_1",
-                    "ThreeDFlip",
-                    "0.000000000000001",
-                    "0.0000000000001",
-                    ""
+                    "Flippable",
+                    "0.000000000000001"
                   ]
                 }
               ]
@@ -6056,14 +6186,12 @@
                 },
                 {
                   "type": {
-                    "value": "ThreeDFlip::ThreeDFlip::FlipToSecond"
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
                   },
                   "parameters": [
                     "jugador_1",
-                    "ThreeDFlip",
-                    "yes",
-                    "0.0000000000001",
-                    ""
+                    "Flippable",
+                    "yes"
                   ]
                 }
               ]
@@ -6706,13 +6834,34 @@
                   "subInstructions": [
                     {
                       "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
                       },
                       "parameters": [
                         "jugador_1",
-                        "Animation"
+                        "Animation",
+                        "=",
+                        "\"golpe ligero\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "PlatformerObject"
                       ]
                     }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation"
                   ]
                 }
               ],
@@ -6829,20 +6978,6 @@
                         ""
                       ]
                     }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": []
-                    }
                   ]
                 },
                 {
@@ -6907,45 +7042,6 @@
                         "False",
                         ""
                       ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "a"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": []
                     }
                   ]
                 },
