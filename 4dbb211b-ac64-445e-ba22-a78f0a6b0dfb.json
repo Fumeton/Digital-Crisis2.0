@@ -3804,6 +3804,546 @@
         "name": "NewTiledSprite8",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0011.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0012.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0013.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0014.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0015.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0016.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0017.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0018.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0019.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_arriba/golpe_arriba_0020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_arriba\\golpe_arriba_0020.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colpe arriba40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colpe arriba40",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4625,7 +5165,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.34375202416123213,
+        "zoomFactor": 0.2636457673770806,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4658,7 +5198,7 @@
           "persistentUuid": "c521025c-263a-4dc1-992a-01174e7d398f",
           "width": 211,
           "x": 1201,
-          "y": 150,
+          "y": 97,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -4873,14 +5413,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 1626,
+          "height": 2188,
           "keepRatio": true,
           "layer": "",
           "name": "Fondo",
           "persistentUuid": "33255718-e0ea-493d-b3c2-8d05fd780423",
-          "width": 2733,
-          "x": -198,
-          "y": -397,
+          "width": 3675,
+          "x": -865,
+          "y": -733,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5047,8 +5587,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5083,8 +5623,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5119,8 +5659,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5155,8 +5695,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5191,8 +5731,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5227,8 +5767,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5263,8 +5803,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5299,8 +5839,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5335,8 +5875,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5371,8 +5911,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5407,8 +5947,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5443,8 +5983,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5479,8 +6019,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5515,8 +6055,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5551,8 +6091,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5587,8 +6127,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5623,8 +6163,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5659,8 +6199,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5695,8 +6235,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5731,8 +6271,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5780,8 +6320,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5816,8 +6356,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5852,8 +6392,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5888,8 +6428,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5937,8 +6477,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5986,8 +6526,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6022,8 +6562,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6058,8 +6598,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6094,8 +6634,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6130,8 +6670,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6166,8 +6706,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6202,8 +6742,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6238,8 +6778,741 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 165,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 91.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "colpe arriba",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.04,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba25",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba26",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba27",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba28",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba29",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba30",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba31",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba32",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba33",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba34",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba35",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba36",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba37",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba38",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba39",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "colpe arriba40",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 101.5,
+                        "y": 64.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6945,7 +8218,7 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "golpes"
+          "target": "mecanicas"
         }
       ],
       "layers": [
@@ -7127,22 +8400,11 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Movimiento",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [],
-              "parameters": []
-            },
-            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::And"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
                   "parameters": [],
                   "subInstructions": [
@@ -7161,13 +8423,24 @@
                     {
                       "type": {
                         "inverted": true,
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
                       },
                       "parameters": [
                         "jugador_1",
-                        "PlatformerObject"
+                        "Animation",
+                        "=",
+                        "\"colpe arriba\""
                       ]
                     }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation"
                   ]
                 }
               ],
@@ -7184,6 +8457,17 @@
                   ]
                 }
               ]
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Movimiento",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -7232,27 +8516,30 @@
                     "jugador_1",
                     "PlatformerObject"
                   ]
-                },
+                }
+              ],
+              "events": [
                 {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Animation",
-                    "=",
-                    "\"caminar\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlatformBehavior::Acceleration"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "PlatformerObject",
-                    "=",
-                    "500"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Flippable",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -7279,117 +8566,30 @@
                     "jugador_1",
                     "PlatformerObject"
                   ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Animation",
-                    "=",
-                    "\"caminar\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlatformBehavior::Acceleration"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "PlatformerObject",
-                    "=",
-                    "500"
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              ],
+              "events": [
                 {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::And"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
                       "type": {
-                        "value": "PlatformBehavior::CurrentSpeed"
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
                       },
                       "parameters": [
                         "jugador_1",
-                        "PlatformerObject",
-                        "<",
-                        "1000"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
+                        "Flippable",
+                        "yes"
                       ]
                     }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Flippable",
-                    "0.000000000000001"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::And"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::CurrentSpeed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "<",
-                        "1000"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Flippable",
-                    "yes"
                   ]
                 }
               ]
@@ -7399,8 +8599,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
-              "name": "Caida rápida",
+              "name": "animacion",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -7409,129 +8608,46 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PlatformBehavior::IsFalling"
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
                       },
                       "parameters": [
                         "jugador_1",
                         "PlatformerObject"
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
-                      ]
                     }
                   ],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "100000"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsOnFloor"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"caminar\""
+                          ]
+                        }
                       ]
                     },
                     {
-                      "type": {
-                        "value": "PlatformBehavior::CanGrabPlatforms"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyReleased"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "750"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::CanGrabPlatforms"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsJumping"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::Gravity"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "1500"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
                         {
                           "type": {
                             "value": "PlatformBehavior::IsJumping"
@@ -7540,38 +8656,169 @@
                             "jugador_1",
                             "PlatformerObject"
                           ]
-                        },
+                        }
+                      ],
+                      "actions": []
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
                         {
                           "type": {
-                            "value": "KeyPressed"
+                            "value": "PlatformBehavior::IsFalling"
                           },
                           "parameters": [
-                            "",
-                            "s"
+                            "jugador_1",
+                            "PlatformerObject"
                           ]
-                        },
+                        }
+                      ],
+                      "actions": []
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation",
+                    "=",
+                    "\"quieto\""
+                  ]
+                }
+              ]
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "golpe arriba",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "j"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
                         {
                           "type": {
-                            "value": "KeyPressed"
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
                           },
                           "parameters": [
-                            "",
-                            "Space"
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"golpe ligero\""
                           ]
                         }
                       ]
                     }
-                  ],
-                  "actions": [
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
                       "type": {
-                        "value": "PlatformBehavior::Gravity"
+                        "value": "KeyPressed"
                       },
                       "parameters": [
                         "jugador_1",
-                        "PlatformerObject",
-                        "=",
-                        "1000"
+                        "j"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "w"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"colpe arriba\""
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -7997,167 +9244,10 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "when te pegan",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [],
-              "parameters": []
-            }
-          ],
-          "parameters": []
-        }
-      ]
-    },
-    {
-      "associatedLayout": "Juego",
-      "name": "golpes",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "HitAtack1",
-                "Opacity",
-                "=",
-                "25"
-              ]
-            }
-          ]
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Jugador 1",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::And"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe ligero\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Animation"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "jugador_1",
-                    "Animation",
-                    "=",
-                    "\"quieto\""
-                  ]
-                }
-              ]
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "ataque ligero lateral",
+              "name": "collision",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "j"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PlatformBehavior::IsOnFloor"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "PlatformerObject"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe ligero\""
-                      ]
-                    }
-                  ]
-                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -8191,8 +9281,8 @@
                       "parameters": [
                         "",
                         "HitAtack1",
-                        "jugador_1.PointX(\"golpe_lateral\") ",
-                        "jugador_1.PointY(\"golpe_lateral\")",
+                        "jugador_1.PointX(\"golpe arriba\") ",
+                        "jugador_1.PointY(\"golpe arribaY\")",
                         ""
                       ]
                     }
@@ -8220,7 +9310,7 @@
                       },
                       "parameters": [
                         "HitAtack1",
-                        ""
+                        "HitAtack1"
                       ]
                     }
                   ]
@@ -8230,77 +9320,65 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BuiltinCommonInstructions::And"
+                        "value": "CollisionNP"
                       },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "j"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PlatformBehavior::IsOnFloor"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "PlatformerObject"
-                          ]
-                        }
+                      "parameters": [
+                        "jugador_2",
+                        "HitAtack1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "Vida",
+                        "+",
+                        "3"
                       ]
                     },
                     {
                       "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                        "value": "AddForceXY"
                       },
                       "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe ligero\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "golpe_ligero",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "PlatformerObject",
-                        "=",
+                        "jugador_2",
+                        "50",
+                        "-150 + -jugador_2.Vida",
                         "1"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "jugador_2",
+                        "0",
+                        "0",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": []
                     }
                   ]
                 }
@@ -8309,6 +9387,65 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Juego",
+      "name": "mecanicas",
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Jugador 1",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "porcentaje_2",
+                "Text",
+                "=",
+                "\"jugador 2 vida: \" + jugador_2.Vida"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ]
     }
