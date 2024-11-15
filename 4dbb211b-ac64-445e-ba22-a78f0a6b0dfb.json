@@ -5165,7 +5165,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2636457673770806,
+        "zoomFactor": 0.4194339782759071,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -8831,7 +8831,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -8927,9 +8926,9 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "600",
+                        "160",
                         "=",
-                        "650"
+                        "672"
                       ]
                     },
                     {
