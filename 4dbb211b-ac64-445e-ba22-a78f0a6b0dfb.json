@@ -3445,7 +3445,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero25.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero25.png\"}",
         "name": "golpe ligero25",
         "smoothed": false,
         "userAdded": false
@@ -3454,7 +3454,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero26.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero26.png\"}",
         "name": "golpe ligero26",
         "smoothed": false,
         "userAdded": false
@@ -3463,7 +3463,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero27.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero27.png\"}",
         "name": "golpe ligero27",
         "smoothed": false,
         "userAdded": false
@@ -3472,7 +3472,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero28.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero28.png\"}",
         "name": "golpe ligero28",
         "smoothed": false,
         "userAdded": false
@@ -3481,7 +3481,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero29.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero29.png\"}",
         "name": "golpe ligero29",
         "smoothed": false,
         "userAdded": false
@@ -3490,7 +3490,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero30.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero30.png\"}",
         "name": "golpe ligero30",
         "smoothed": false,
         "userAdded": false
@@ -3499,7 +3499,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero31.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero31.png\"}",
         "name": "golpe ligero31",
         "smoothed": false,
         "userAdded": false
@@ -3508,7 +3508,7 @@
         "alwaysLoaded": false,
         "file": "assets/golpe ligero32.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe ligero32.png\"}",
         "name": "golpe ligero32",
         "smoothed": false,
         "userAdded": false
@@ -4344,6 +4344,24 @@
         "name": "colpe arriba40",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/quieto136.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "quieto136",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/stun.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stun",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5165,7 +5183,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4194339782759071,
+        "zoomFactor": 0.2636457673770807,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5482,6 +5500,7 @@
               "WasJumpKeyReleased": false
             },
             {
+              "maxFallingSpeed": 500,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGoDownFromJumpthru": false,
@@ -5497,7 +5516,6 @@
               "ignoreDefaultControls": true,
               "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
-              "maxFallingSpeed": 700,
               "useLegacyTrajectory": false,
               "yGrabOffset": 0
             },
@@ -5591,10 +5609,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5627,10 +5645,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5663,10 +5681,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5699,10 +5717,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5735,10 +5753,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5771,10 +5789,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5807,10 +5825,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5843,10 +5861,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5879,10 +5897,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5915,10 +5933,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5951,10 +5969,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -5987,10 +6005,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6023,10 +6041,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6059,10 +6077,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6095,10 +6113,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6131,10 +6149,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6167,10 +6185,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6203,10 +6221,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6239,10 +6257,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6275,10 +6293,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6324,10 +6342,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6360,10 +6378,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6396,10 +6414,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6432,10 +6450,10 @@
                         "y": 91.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6526,14 +6544,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6562,14 +6580,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6598,14 +6616,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6634,14 +6652,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6670,14 +6688,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6706,14 +6724,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6742,14 +6760,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6778,14 +6796,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 155.5,
-                        "y": 91.5
+                        "x": 174.5,
+                        "y": 101.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6831,10 +6849,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6867,10 +6885,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6903,10 +6921,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6939,10 +6957,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -6975,10 +6993,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7011,10 +7029,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7047,10 +7065,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7083,10 +7101,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7119,10 +7137,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7155,10 +7173,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7191,10 +7209,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7227,10 +7245,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7263,10 +7281,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7299,10 +7317,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7335,10 +7353,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7371,10 +7389,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7407,10 +7425,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7443,10 +7461,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7479,10 +7497,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7515,10 +7533,10 @@
                         "y": 64.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 100,
+                        "y": 100
                       },
                       "customCollisionMask": [
                         [
@@ -7581,7 +7599,10 @@
               "WasJumpKeyReleased": false
             },
             {
+              "gravity": 1000,
               "isFolded": true,
+              "ladderClimbingSpeed": 147,
+              "maxFallingSpeed": 500,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -7589,12 +7610,9 @@
               "canGrabPlatforms": true,
               "canGrabWithoutMoving": true,
               "deceleration": 1500,
-              "gravity": 750,
               "ignoreDefaultControls": true,
               "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
               "maxSpeed": 250,
               "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
@@ -7602,6 +7620,7 @@
               "yGrabOffset": 0
             },
             {
+              "isFolded": true,
               "name": "SmoothCamera",
               "type": "SmoothCamera::SmoothCamera",
               "LeftwardSpeed": 0.9,
@@ -7681,7 +7700,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "muñeco_de_prueba.png",
+                      "image": "quieto136",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7720,17 +7739,53 @@
               ]
             },
             {
-              "name": "agarre",
+              "name": "stun",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.5,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "agarre",
+                      "image": "stun",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 28
+                          },
+                          {
+                            "x": 78,
+                            "y": 28
+                          },
+                          {
+                            "x": 78,
+                            "y": 93
+                          },
+                          {
+                            "x": 20,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "muñeco_de_prueba.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7771,7 +7826,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "HitAtack1",
           "type": "Sprite",
@@ -7795,8 +7850,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 32,
+                        "y": 32
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7811,12 +7866,12 @@
                             "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 51.5,
+                            "y": 15
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 50.5,
+                            "y": 51
                           },
                           {
                             "x": 0,
@@ -7854,8 +7909,8 @@
             {
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0,
               "canBeGrabbed": false,
-              "yGrabOffset": 10,
               "platformType": "NormalPlatform"
             }
           ],
@@ -8219,6 +8274,20 @@
             "includeConfig": 0
           },
           "target": "mecanicas"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "HitAtack1"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -8831,6 +8900,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -9270,6 +9340,12 @@
                         "=",
                         "4"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -9284,6 +9360,76 @@
                         "jugador_1.PointY(\"golpe arribaY\")",
                         ""
                       ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "HitAtack1",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "Vida",
+                            "+",
+                            "3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "jugador_1.AngleToObject(jugador_2)",
+                            "60",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceXY"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "0",
+                            "-500",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "Animation",
+                            "=",
+                            "\"stun\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": []
                     }
                   ]
                 },
@@ -9313,73 +9459,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "HitAtack1",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberObjectVariable"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Vida",
-                        "+",
-                        "3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceXY"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "50",
-                        "-150 + -jugador_2.Vida",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceXY"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "0",
-                        "0",
-                        "1"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": []
-                    }
-                  ]
                 }
               ],
               "parameters": []
@@ -9389,8 +9468,49 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "jugador_2",
+                "Animation",
+                "=",
+                "\"stun\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "jugador_2",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "jugador_2",
+                "Animation",
+                "=",
+                "\"quieto\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "jugador_2"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
