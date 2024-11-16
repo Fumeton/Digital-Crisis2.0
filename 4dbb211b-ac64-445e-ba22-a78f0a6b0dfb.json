@@ -4362,6 +4362,303 @@
         "name": "stun",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_bajo/golpe_bajo_0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/primer_golpe/golpe_estatico1_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0008.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0009.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/segundo_golpe/golpe_estatico2_0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0006.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0007.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/form/golpes/golpe_estatico/tercer_golpe/golpe_estatico3_0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0008.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5183,7 +5480,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.15508574551593005,
+        "zoomFactor": 0.18305734955560105,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5462,6 +5759,74 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "f83d1abc-09ed-4490-8a05-98e8d9637c9d",
+          "width": 4639,
+          "x": -1444,
+          "y": 1679,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 2979,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "168f497d-fbfe-435b-8857-15a784e69237",
+          "width": 28,
+          "x": 3191,
+          "y": -1268,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 37,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "6b2233db-f2ba-48a4-b853-3eba4fd6cd0b",
+          "width": 4600,
+          "x": -1375,
+          "y": -1260,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 3037,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "285d2ed6-6908-4f1e-b33b-c5e432c42082",
+          "width": 124,
+          "x": -1515,
+          "y": -1240,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -5499,6 +5864,11 @@
             },
             {
               "name": "golpe_ligero",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Movimiento",
               "type": "boolean",
               "value": false
             }
@@ -6531,7 +6901,7 @@
               ]
             },
             {
-              "name": "golpe ligero",
+              "name": "golpe lateral",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -6832,7 +7202,7 @@
               ]
             },
             {
-              "name": "colpe arriba",
+              "name": "golpe arriba",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -7538,6 +7908,1290 @@
                         "name": "centre",
                         "x": 100,
                         "y": 100
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe bajo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0001.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0002.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0003.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0004.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0005.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0006.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0007.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_bajo\\golpe_bajo_0008.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 40,
+                          "y": 73
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 82.5,
+                        "y": 82
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 112.5,
+                        "y": 74
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe estatico_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\primer_golpe\\golpe_estatico1_0007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe estatico_2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\segundo_golpe\\golpe_estatico2_0010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 129
+                          },
+                          {
+                            "x": 65,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 76
+                          },
+                          {
+                            "x": 135,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
@@ -8278,16 +9932,7 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
-                "HitAtack1"
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -8308,6 +9953,73 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "jugador_1",
+                "NewTiledSprite2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "jugador_1",
+                "=",
+                "969 ",
+                "=",
+                "456"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "jugador_2",
+                "NewTiledSprite2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "jugador_1",
+                "=",
+                "969 ",
+                "=",
+                "456"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -8506,7 +10218,7 @@
                         "jugador_1",
                         "Animation",
                         "=",
-                        "\"golpe ligero\""
+                        "\"golpe lateral\""
                       ]
                     },
                     {
@@ -8518,7 +10230,7 @@
                         "jugador_1",
                         "Animation",
                         "=",
-                        "\"colpe arriba\""
+                        "\"golpe arriba\""
                       ]
                     }
                   ]
@@ -8621,6 +10333,17 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Movimiento",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FlippableCapability::FlippableBehavior::FlipX"
                       },
                       "parameters": [
@@ -8629,6 +10352,62 @@
                         ""
                       ]
                     }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "d"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Movimiento",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Movimiento",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "Animation",
+                    "=",
+                    "\"caminar\""
                   ]
                 }
               ]
@@ -8671,6 +10450,17 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Movimiento",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FlippableCapability::FlippableBehavior::FlipX"
                       },
                       "parameters": [
@@ -8707,33 +10497,6 @@
                   ],
                   "actions": [],
                   "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PlatformBehavior::IsOnFloor"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "PlatformerObject"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"caminar\""
-                          ]
-                        }
-                      ]
-                    },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
@@ -8817,110 +10580,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "golpe arriba",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "j"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe ligero\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "j"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "w"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"colpe arriba\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -9016,9 +10675,9 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "160",
+                        "200",
                         "=",
-                        "672"
+                        "680"
                       ]
                     },
                     {
@@ -9333,10 +10992,147 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "collision",
+              "folded": true,
+              "name": "golpe arriba",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "w"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "j"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "d"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "w"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "j"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "a"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "w"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "j"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"golpe arriba\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -9348,7 +11144,450 @@
                         "jugador_1",
                         "Animation",
                         "=",
-                        "\"golpe ligero\""
+                        "\"golpe lateral\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Sprite"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "=",
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "HitAtack1",
+                        "jugador_1.PointX(\"golpe arriba\") ",
+                        "jugador_1.PointY(\"golpe arribaY\")",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "Sprite"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "=",
+                            "4"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "HitAtack1",
+                            "HitAtack1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "HitAtack1",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "Vida",
+                            "+",
+                            "3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "jugador_1.AngleToObject(jugador_2)",
+                            "60",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceXY"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "0",
+                            "-150",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_2",
+                            "Animation",
+                            "=",
+                            "\"stun\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": []
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "golpe bajo",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "s"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "j"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "d"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "s"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "j"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "a"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "s"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "jugador_1",
+                                "j"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Movimiento",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"golpe bajo\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "golpe lateral",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "j"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "d"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Movimiento",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"golpe lateral\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "j"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "a"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Movimiento",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "jugador_1",
+                            "Animation",
+                            "=",
+                            "\"golpe lateral\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Animation",
+                        "=",
+                        "\"golpe lateral\""
                       ]
                     },
                     {
@@ -9488,6 +11727,11 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -9531,21 +11775,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ]
     },
