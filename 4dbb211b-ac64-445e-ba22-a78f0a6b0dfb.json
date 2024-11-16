@@ -1,7 +1,7 @@
 {
   "firstLayout": "Inicio",
   "gdVersion": {
-    "build": 217,
+    "build": 218,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -5183,7 +5183,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2636457673770807,
+        "zoomFactor": 0.15508574551593005,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5369,8 +5369,8 @@
           "name": "plataforma_flotante",
           "persistentUuid": "98dba793-6e5f-4703-b631-81b70a59396f",
           "width": 325,
-          "x": 1124,
-          "y": 375,
+          "x": 852,
+          "y": 144,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5414,23 +5414,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewTiledSprite2",
-          "persistentUuid": "8347f71a-355f-4b66-b391-92e3d038e898",
-          "width": 2112,
-          "x": -168,
-          "y": -644,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 2188,
           "keepRatio": true,
           "layer": "",
@@ -5440,6 +5423,42 @@
           "x": -865,
           "y": -733,
           "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "flippedX": true,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_flotante",
+          "persistentUuid": "76f34051-3aa0-4688-ad15-088639e8a613",
+          "width": 325,
+          "x": 1215,
+          "y": -135,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "flippedX": true,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_flotante",
+          "persistentUuid": "10fbddc9-dc59-4f19-b925-67238486cb24",
+          "width": 325,
+          "x": 438,
+          "y": -345,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5487,31 +5506,30 @@
           "effects": [],
           "behaviors": [
             {
-              "isFolded": true,
               "name": "AdvancedJump",
               "type": "AdvancedJump::AdvancedJump",
               "PlatformerBehavior": "PlatformerObject",
               "CoyoteTimeFrameDuration": 0.25,
               "CanCoyoteJump": false,
               "WasInTheAir": false,
-              "AirJumpCountMaximum": 1,
+              "AirJumpCountMaximum": 2,
               "AreFloorJumpCountedAsAirJump": false,
               "AirJumpCount": 0,
               "WasJumpKeyReleased": false
             },
             {
-              "maxFallingSpeed": 500,
+              "gravity": 1000,
+              "ladderClimbingSpeed": 148,
+              "maxFallingSpeed": 800,
               "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGoDownFromJumpthru": false,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": false,
               "acceleration": 1500,
               "deceleration": 1500,
-              "gravity": 750,
-              "ladderClimbingSpeed": 150,
               "maxSpeed": 500,
-              "slopeMaxAngle": 60,
               "xGrabTolerance": 0,
               "ignoreDefaultControls": true,
               "jumpSpeed": 600,
@@ -5520,7 +5538,6 @@
               "yGrabOffset": 0
             },
             {
-              "isFolded": true,
               "name": "SmoothCamera",
               "type": "SmoothCamera::SmoothCamera",
               "LeftwardSpeed": 0.9,
@@ -5571,22 +5588,6 @@
               "OldX": 9000.000000007454,
               "OldY": 9000.000000007454,
               "IsCalledManually": false
-            },
-            {
-              "isFolded": true,
-              "name": "ThreeDFlip",
-              "type": "ThreeDFlip::ThreeDFlip",
-              "Resizable": "Resizable",
-              "Flippable": "Flippable",
-              "Animation": "Animation",
-              "FlippingMethod": "Mirror",
-              "FrontAnimation": "Front",
-              "BackAnimation": "Back",
-              "Duration": 0,
-              "IsFlipped": false,
-              "Width": 0,
-              "ElapsedTime": 0,
-              "Toggle": false
             }
           ],
           "animations": [
@@ -7566,7 +7567,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "jugador_2",
           "type": "Sprite",
@@ -7599,22 +7600,21 @@
               "WasJumpKeyReleased": false
             },
             {
-              "gravity": 1000,
-              "isFolded": true,
-              "ladderClimbingSpeed": 147,
-              "maxFallingSpeed": 500,
+              "deceleration": 1500,
+              "maxFallingSpeed": 800,
               "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "gravity": 1000,
+              "ladderClimbingSpeed": 147,
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": true,
               "canGrabWithoutMoving": true,
-              "deceleration": 1500,
               "ignoreDefaultControls": true,
               "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "maxSpeed": 250,
-              "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -7716,20 +7716,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 20,
+                            "x": 34,
                             "y": 28
                           },
                           {
-                            "x": 78,
-                            "y": 28
+                            "x": 60.5,
+                            "y": 27.5
                           },
                           {
-                            "x": 78,
-                            "y": 93
+                            "x": 61,
+                            "y": 94
                           },
                           {
-                            "x": 20,
-                            "y": 93
+                            "x": 34.5,
+                            "y": 94
                           }
                         ]
                       ]
@@ -7765,20 +7765,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 20,
+                            "x": 34,
                             "y": 28
                           },
                           {
-                            "x": 78,
-                            "y": 28
+                            "x": 60.5,
+                            "y": 27.5
                           },
                           {
-                            "x": 78,
-                            "y": 93
+                            "x": 61,
+                            "y": 94
                           },
                           {
-                            "x": 20,
-                            "y": 93
+                            "x": 34.5,
+                            "y": 94
                           }
                         ]
                       ]
@@ -7801,20 +7801,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 20,
+                            "x": 34,
                             "y": 28
                           },
                           {
-                            "x": 78,
-                            "y": 28
+                            "x": 60.5,
+                            "y": 27.5
                           },
                           {
-                            "x": 78,
-                            "y": 93
+                            "x": 61,
+                            "y": 94
                           },
                           {
-                            "x": 20,
-                            "y": 93
+                            "x": 34.5,
+                            "y": 94
                           }
                         ]
                       ]
@@ -8285,6 +8285,26 @@
               },
               "parameters": [
                 "HitAtack1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "-863",
+                "-734",
+                "2804",
+                "1451",
+                "",
+                ""
               ]
             }
           ]
