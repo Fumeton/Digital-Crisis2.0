@@ -4690,7 +4690,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.24488383633725472,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4700,14 +4700,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 314,
+          "height": 179,
           "keepRatio": true,
           "layer": "",
           "name": "Titulo",
           "persistentUuid": "6b24d789-9ff7-41ba-8fa8-c4c59a7ec0e4",
-          "width": 746,
-          "x": 88,
-          "y": 86,
+          "width": 1014,
+          "x": 84,
+          "y": 119,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -4717,31 +4717,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 149,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Jugar",
-          "persistentUuid": "5d259aa9-c179-4d9a-af5e-ae6c9506d67e",
-          "width": 359,
-          "x": 263,
-          "y": 458,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 48,
-          "height": 146,
+          "height": 105,
           "keepRatio": true,
           "layer": "",
           "name": "Tienda",
           "persistentUuid": "bd8609d0-8229-4388-850e-62e160d8ab3c",
           "width": 357,
-          "x": 265,
-          "y": 638,
+          "x": 167,
+          "y": 481,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -4751,48 +4734,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 48,
-          "height": 246,
+          "height": 100,
           "keepRatio": true,
-          "layer": "Tienda",
-          "name": "NewButton",
-          "persistentUuid": "9a861345-4858-4096-a7da-3af74fc81298",
-          "width": 320,
-          "x": 145,
-          "y": 582,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 657,
-          "keepRatio": true,
-          "layer": "Tienda",
-          "name": "NewSprite",
-          "persistentUuid": "c38c5445-b68b-4912-8a63-be1076646e55",
-          "width": 590,
-          "x": 702,
-          "y": 193,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Tienda",
-          "name": "Volver",
-          "persistentUuid": "86c616f3-2445-4a93-b0b1-4f0e9b345120",
-          "width": 0,
-          "x": 285,
-          "y": 913,
-          "zOrder": 9,
+          "layer": "",
+          "name": "Jugar",
+          "persistentUuid": "f233110b-6a2f-4da3-8763-0fd3e08230be",
+          "width": 354,
+          "x": 170,
+          "y": 376,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4801,7 +4751,7 @@
       "objects": [
         {
           "assetStoreId": "",
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "Titulo",
           "smoothed": true,
@@ -4813,14 +4763,14 @@
           "string": "DIGITAL CRISIS",
           "font": "assets\\Daydream.ttf",
           "textAlignment": "left",
-          "characterSize": 120,
+          "characterSize": 75,
           "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
+            "b": 51,
+            "g": 53,
+            "r": 52
           },
           "content": {
-            "bold": false,
+            "bold": true,
             "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
@@ -4837,8 +4787,8 @@
             "font": "assets\\Daydream.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 120,
-            "color": "0;0;0"
+            "characterSize": 75,
+            "color": "52;53;51"
           }
         },
         {
@@ -4851,7 +4801,7 @@
           "content": {
             "LeftPadding": 0,
             "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
+            "PressedLabelOffsetY": 0,
             "BottomPadding": 6,
             "TopPadding": 0,
             "HoveredFadeOutDuration": 0
@@ -4882,7 +4832,7 @@
               "italic": false,
               "smoothed": true,
               "underlined": false,
-              "string": "Jugar\n",
+              "string": "Jugar",
               "font": "assets\\Daydream.ttf",
               "textAlignment": "center",
               "characterSize": 45,
@@ -4901,14 +4851,14 @@
                 "shadowAngle": 90,
                 "shadowBlurRadius": 2,
                 "shadowColor": "0;0;0",
-                "shadowDistance": 4,
+                "shadowDistance": 0,
                 "shadowOpacity": 127,
                 "smoothed": true,
                 "underlined": false,
-                "text": "Jugar\n",
+                "text": "Jugar",
                 "font": "assets\\Daydream.ttf",
                 "textAlignment": "center",
-                "verticalTextAlignment": "bottom",
+                "verticalTextAlignment": "top",
                 "characterSize": 45,
                 "color": "255;255;255"
               }
@@ -5010,143 +4960,6 @@
           }
         },
         {
-          "assetStoreId": "",
-          "name": "NewButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {},
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "NewButton Hovered",
-              "tiled": false,
-              "topMargin": 0,
-              "width": 32
-            },
-            "Idle": {
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "NewButton Idle",
-              "tiled": false,
-              "topMargin": 0,
-              "width": 32
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "",
-              "font": "",
-              "textAlignment": "",
-              "characterSize": 20,
-              "color": {
-                "b": 0,
-                "g": 0,
-                "r": 0
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "",
-                "font": "",
-                "textAlignment": "",
-                "verticalTextAlignment": "top",
-                "characterSize": 20,
-                "color": "0;0;0"
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "NewButton Pressed",
-              "tiled": false,
-              "topMargin": 0,
-              "width": 32
-            }
-          }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Skeleton Attack.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 5
-                          },
-                          {
-                            "x": 25,
-                            "y": 5
-                          },
-                          {
-                            "x": 25,
-                            "y": 37
-                          },
-                          {
-                            "x": 3,
-                            "y": 37
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
           "name": "Volver",
           "type": "PanelSpriteButton::PanelSpriteButton",
@@ -5245,12 +5058,6 @@
           },
           {
             "objectName": "Volver"
-          },
-          {
-            "objectName": "NewButton"
-          },
-          {
-            "objectName": "NewSprite"
           }
         ]
       },
@@ -5405,10 +5212,10 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
-          "name": "Tienda",
+          "isLocked": false,
+          "name": "tienda",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -5888,12 +5695,12 @@
               "WasJumpKeyReleased": false
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "gravity": 1000,
               "ladderClimbingSpeed": 148,
               "maxFallingSpeed": 800,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGoDownFromJumpthru": false,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": false,
@@ -9254,11 +9061,11 @@
               "WasJumpKeyReleased": false
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "deceleration": 1500,
               "maxFallingSpeed": 800,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "gravity": 1000,
               "ladderClimbingSpeed": 147,
               "acceleration": 1500,
