@@ -4659,6 +4659,60 @@
         "name": "assets\\form\\golpes\\golpe_estatico\\tercer_golpe\\golpe_estatico3_0008.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondo/fondo_del_juego.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo\\fondo_del_juego.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondo/nubes_del_fondo/nube5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo\\nubes_del_fondo\\nube5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondo/nubes_del_fondo/nube1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo\\nubes_del_fondo\\nube1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondo/nubes_del_fondo/nube2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo\\nubes_del_fondo\\nube2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondo/nubes_del_fondo/nube3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo\\nubes_del_fondo\\nube3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondo/nubes_del_fondo/nube4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo\\nubes_del_fondo\\nube4.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5287,7 +5341,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.18305734955560105,
+        "zoomFactor": 0.0853722732090187,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5473,8 +5527,8 @@
           "name": "plataforma_flotante",
           "persistentUuid": "98dba793-6e5f-4703-b631-81b70a59396f",
           "width": 325,
-          "x": 852,
-          "y": 144,
+          "x": 1167,
+          "y": 375,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5524,45 +5578,9 @@
           "name": "Fondo",
           "persistentUuid": "33255718-e0ea-493d-b3c2-8d05fd780423",
           "width": 3675,
-          "x": -865,
-          "y": -733,
+          "x": -816,
+          "y": -646,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "flippedX": true,
-          "height": 34,
-          "keepRatio": true,
-          "layer": "",
-          "name": "plataforma_flotante",
-          "persistentUuid": "76f34051-3aa0-4688-ad15-088639e8a613",
-          "width": 325,
-          "x": 1215,
-          "y": -135,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "flippedX": true,
-          "height": 34,
-          "keepRatio": true,
-          "layer": "",
-          "name": "plataforma_flotante",
-          "persistentUuid": "10fbddc9-dc59-4f19-b925-67238486cb24",
-          "width": 325,
-          "x": 438,
-          "y": -345,
-          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5631,6 +5649,125 @@
           "x": -1515,
           "y": -1240,
           "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube1",
+          "persistentUuid": "80005f25-fc4e-431b-a9fc-92921dae97d2",
+          "width": 647,
+          "x": 3042,
+          "y": -241,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 376,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube5",
+          "persistentUuid": "bc08f865-d1a6-4782-98e3-546b448103a4",
+          "width": 607,
+          "x": 4080,
+          "y": 503,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 353,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube2",
+          "persistentUuid": "3efc1bf0-2401-426b-955e-41ae2ff692a3",
+          "width": 688,
+          "x": 3492,
+          "y": -748,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 205,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube4",
+          "persistentUuid": "d3fdd2fb-0de0-45e8-9df4-544b1a65db28",
+          "width": 311,
+          "x": 5380,
+          "y": 249,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 213,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube5",
+          "persistentUuid": "41fc0827-97de-4e2d-870d-5ff75f80313d",
+          "width": 357,
+          "x": 4131,
+          "y": -144,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 205,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube4",
+          "persistentUuid": "fa72b0a5-2b8f-49a3-b8e9-6202769a4294",
+          "width": 311,
+          "x": 5514,
+          "y": -818,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 400,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nube5",
+          "persistentUuid": "81924485-d8a8-4755-a03c-8fdf9ebc1906",
+          "width": 568,
+          "x": 6089,
+          "y": 501,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9639,7 +9776,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo_del_juego2.png",
+                      "image": "fondo\\fondo_del_juego.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9659,16 +9796,316 @@
                             "y": 0
                           },
                           {
-                            "x": 240,
+                            "x": 415,
                             "y": 0
                           },
                           {
-                            "x": 240,
-                            "y": 160
+                            "x": 415,
+                            "y": 279
                           },
                           {
                             "x": 0,
-                            "y": 160
+                            "y": 279
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "nube1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo\\nubes_del_fondo\\nube5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 100,
+                            "y": 3
+                          },
+                          {
+                            "x": 100,
+                            "y": 55
+                          },
+                          {
+                            "x": 3,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "nube2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo\\nubes_del_fondo\\nube1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 4
+                          },
+                          {
+                            "x": 80,
+                            "y": 4
+                          },
+                          {
+                            "x": 80,
+                            "y": 43
+                          },
+                          {
+                            "x": 2,
+                            "y": 43
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "nube3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo\\nubes_del_fondo\\nube3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 35,
+                            "y": 3
+                          },
+                          {
+                            "x": 35,
+                            "y": 22
+                          },
+                          {
+                            "x": 2,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "nube5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo\\nubes_del_fondo\\nube4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 5
+                          },
+                          {
+                            "x": 86,
+                            "y": 5
+                          },
+                          {
+                            "x": 86,
+                            "y": 41
+                          },
+                          {
+                            "x": 5,
+                            "y": 41
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "nube4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo\\nubes_del_fondo\\nube3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 35,
+                            "y": 3
+                          },
+                          {
+                            "x": 35,
+                            "y": 22
+                          },
+                          {
+                            "x": 2,
+                            "y": 22
                           }
                         ]
                       ]
@@ -9718,6 +10155,21 @@
           },
           {
             "objectName": "Fondo"
+          },
+          {
+            "objectName": "nube1"
+          },
+          {
+            "objectName": "nube3"
+          },
+          {
+            "objectName": "nube5"
+          },
+          {
+            "objectName": "nube2"
+          },
+          {
+            "objectName": "nube4"
           }
         ]
       },
@@ -9822,6 +10274,33 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "nube1",
+                "Animation",
+                "0.5",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
