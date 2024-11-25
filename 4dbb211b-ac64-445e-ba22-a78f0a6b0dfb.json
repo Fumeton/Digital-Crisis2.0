@@ -5341,7 +5341,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.0853722732090187,
+        "zoomFactor": 0.12710233719926795,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5374,7 +5374,7 @@
           "persistentUuid": "c521025c-263a-4dc1-992a-01174e7d398f",
           "width": 211,
           "x": 1201,
-          "y": 97,
+          "y": 128,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -5580,7 +5580,7 @@
           "width": 3675,
           "x": -816,
           "y": -646,
-          "zOrder": -1,
+          "zOrder": -5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5592,7 +5592,7 @@
           "height": 32,
           "keepRatio": true,
           "layer": "",
-          "name": "NewTiledSprite2",
+          "name": "borde_muerte",
           "persistentUuid": "f83d1abc-09ed-4490-8a05-98e8d9637c9d",
           "width": 4639,
           "x": -1444,
@@ -5609,7 +5609,7 @@
           "height": 2979,
           "keepRatio": true,
           "layer": "",
-          "name": "NewTiledSprite2",
+          "name": "borde_muerte",
           "persistentUuid": "168f497d-fbfe-435b-8857-15a784e69237",
           "width": 28,
           "x": 3191,
@@ -5626,11 +5626,11 @@
           "height": 37,
           "keepRatio": true,
           "layer": "",
-          "name": "NewTiledSprite2",
+          "name": "borde_muerte",
           "persistentUuid": "6b2233db-f2ba-48a4-b853-3eba4fd6cd0b",
           "width": 4600,
-          "x": -1375,
-          "y": -1260,
+          "x": -1368,
+          "y": -973,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -5643,11 +5643,11 @@
           "height": 3037,
           "keepRatio": true,
           "layer": "",
-          "name": "NewTiledSprite2",
+          "name": "borde_muerte",
           "persistentUuid": "285d2ed6-6908-4f1e-b33b-c5e432c42082",
           "width": 124,
-          "x": -1515,
-          "y": -1240,
+          "x": -1308,
+          "y": -1180,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -5665,7 +5665,7 @@
           "width": 647,
           "x": 3042,
           "y": -241,
-          "zOrder": 12,
+          "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5682,7 +5682,7 @@
           "width": 607,
           "x": 4080,
           "y": 503,
-          "zOrder": 13,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5699,7 +5699,7 @@
           "width": 688,
           "x": 3492,
           "y": -748,
-          "zOrder": 14,
+          "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5716,7 +5716,7 @@
           "width": 311,
           "x": 5380,
           "y": 249,
-          "zOrder": 15,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5733,7 +5733,7 @@
           "width": 357,
           "x": 4131,
           "y": -144,
-          "zOrder": 16,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5750,7 +5750,7 @@
           "width": 311,
           "x": 5514,
           "y": -818,
-          "zOrder": 15,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5767,7 +5767,24 @@
           "width": 568,
           "x": 6089,
           "y": 501,
-          "zOrder": 16,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 4019,
+          "keepRatio": true,
+          "layer": "",
+          "name": "objetivo",
+          "persistentUuid": "1564e57e-df68-47bc-ad2f-14c1f61301c8",
+          "width": 27,
+          "x": -2333,
+          "y": -1582,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9380,42 +9397,6 @@
                           }
                         ]
                       ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "muñeco_de_prueba.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 34,
-                            "y": 28
-                          },
-                          {
-                            "x": 60.5,
-                            "y": 27.5
-                          },
-                          {
-                            "x": 61,
-                            "y": 94
-                          },
-                          {
-                            "x": 34.5,
-                            "y": 94
-                          }
-                        ]
-                      ]
                     }
                   ]
                 }
@@ -9748,7 +9729,7 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "NewTiledSprite2",
+          "name": "borde_muerte",
           "texture": "NewTiledSprite5",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -9824,7 +9805,23 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "customIsometryAngle": 30,
+              "deceleration": 800,
+              "ignoreDefaultControls": false,
+              "maxSpeed": 200,
+              "movementAngleOffset": 0,
+              "name": "TopDownMovement",
+              "rotateObject": true,
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "viewpoint": "TopDown"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -10115,6 +10112,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "objetivo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo\\nubes_del_fondo\\nube2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 17
+                          },
+                          {
+                            "x": 1,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -10124,7 +10181,7 @@
             "objectName": "jugador_1"
           },
           {
-            "objectName": "NewTiledSprite2"
+            "objectName": "borde_muerte"
           },
           {
             "objectName": "porcentaje_1"
@@ -10158,6 +10215,9 @@
           },
           {
             "objectName": "nube1"
+          },
+          {
+            "objectName": "objetivo"
           },
           {
             "objectName": "nube3"
@@ -10222,7 +10282,7 @@
               },
               "parameters": [
                 "jugador_1",
-                "NewTiledSprite2",
+                "borde_muerte",
                 "",
                 "",
                 ""
@@ -10237,9 +10297,9 @@
               "parameters": [
                 "jugador_1",
                 "=",
-                "969 ",
+                "745",
                 "=",
-                "456"
+                "261"
               ]
             }
           ]
@@ -10253,7 +10313,7 @@
               },
               "parameters": [
                 "jugador_2",
-                "NewTiledSprite2",
+                "borde_muerte",
                 "",
                 "",
                 ""
@@ -10266,11 +10326,11 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "jugador_1",
+                "jugador_2",
                 "=",
-                "969 ",
+                "1200",
                 "=",
-                "456"
+                "125"
               ]
             }
           ]
@@ -10278,29 +10338,304 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "animacion paisaje",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "AddForceAL"
-              },
-              "parameters": [
-                "nube1",
-                "Animation",
-                "0.5",
-                "1"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "objetivo",
+                    "nube1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "nube1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "nube1",
+                    "=",
+                    "RandomFloatInRange(3000, 3500)",
+                    "=",
+                    "RandomFloatInRange(0, 1000)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "objetivo",
+                    "nube2",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "nube2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "nube1",
+                    "=",
+                    "RandomFloatInRange(3000, 3500)",
+                    "=",
+                    "RandomFloatInRange(0, 1000)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "objetivo",
+                    "nube3",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "nube3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "nube1",
+                    "=",
+                    "RandomFloatInRange(3000, 3500)",
+                    "=",
+                    "RandomFloatInRange(0, 1000)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "objetivo",
+                    "nube4",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "nube4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "nube1",
+                    "=",
+                    "RandomFloatInRange(3000, 3500)",
+                    "=",
+                    "RandomFloatInRange(0, 1000)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "objetivo",
+                    "nube4",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "nube5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "nube1",
+                    "=",
+                    "RandomFloatInRange(3000, 3500)",
+                    "=",
+                    "RandomFloatInRange(0, 1000)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "nube1",
+                    "objetivo",
+                    "RandomFloatInRange(0.05, 0.5)",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "nube2",
+                    "objetivo",
+                    "RandomFloatInRange(0.05, 0.01)",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "nube3",
+                    "objetivo",
+                    "RandomFloatInRange(0.05, 0.5)",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "nube4",
+                    "objetivo",
+                    "RandomFloatInRange(0.05, 0.01)",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "nube5",
+                    "objetivo",
+                    "RandomFloatInRange(0.05, 0.5)",
+                    "1"
+                  ]
+                }
               ]
             }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          ],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -10468,6 +10803,10 @@
         {
           "name": "ThreeDFlip",
           "type": "ThreeDFlip::ThreeDFlip"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     }
