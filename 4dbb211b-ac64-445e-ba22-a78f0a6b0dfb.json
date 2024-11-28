@@ -4662,55 +4662,19 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "fondo/fondo_del_juego.png",
+        "file": "DALL·E 2024-11-28 16.16.46 - A stunning post-apocalyptic landscape where an evil virus has ravaged the world, breaking the Earth into floating platforms of various sizes and shape.webp",
         "kind": "image",
         "metadata": "",
-        "name": "fondo\\fondo_del_juego.png",
+        "name": "DALL·E 2024-11-28 16.16.46 - A stunning post-apocalyptic landscape where an evil virus has ravaged the world, breaking the Earth into floating platforms of various sizes and shape.webp",
         "smoothed": false,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "fondo/nubes_del_fondo/nube5.png",
+        "file": "DALL·E 2024-11-28 16.21.00 - A bright 16-bit style pixel art of a post-apocalyptic world where an evil virus has destroyed the Earth, leaving floating platforms in the air. The sc.png",
         "kind": "image",
         "metadata": "",
-        "name": "fondo\\nubes_del_fondo\\nube5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "fondo/nubes_del_fondo/nube1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "fondo\\nubes_del_fondo\\nube1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "fondo/nubes_del_fondo/nube2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "fondo\\nubes_del_fondo\\nube2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "fondo/nubes_del_fondo/nube3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "fondo\\nubes_del_fondo\\nube3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "fondo/nubes_del_fondo/nube4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "fondo\\nubes_del_fondo\\nube4.png",
+        "name": "DALL·E 2024-11-28 16.21.00 - A bright 16-bit style pixel art of a post-apocalyptic world where an evil virus has destroyed the Earth, leaving floating platforms in the air. The sc.png",
         "smoothed": false,
         "userAdded": false
       }
@@ -4744,7 +4708,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.24488383633725472,
+        "zoomFactor": 0.26167741169921493,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4778,7 +4742,7 @@
           "persistentUuid": "bd8609d0-8229-4388-850e-62e160d8ab3c",
           "width": 357,
           "x": 167,
-          "y": 481,
+          "y": 513,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -4797,6 +4761,24 @@
           "x": 170,
           "y": 376,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1296,
+          "keepRatio": true,
+          "layer": "fondo",
+          "name": "NewSprite",
+          "opacity": 153,
+          "persistentUuid": "06d91030-60e0-4248-8ba3-c8c81567fda1",
+          "width": 2281,
+          "x": -106,
+          "y": -115,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5096,6 +5078,66 @@
               "width": 192
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "21.00 - A bright 16-bit style pixel art of a post-apocalyptic world where an evil virus has destroyed the Earth, leaving floating platforms in the air. The sc",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "DALL·E 2024-11-28 16.21.00 - A bright 16-bit style pixel art of a post-apocalyptic world where an evil virus has destroyed the Earth, leaving floating platforms in the air. The sc.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1024,
+                            "y": 0
+                          },
+                          {
+                            "x": 1024,
+                            "y": 1024
+                          },
+                          {
+                            "x": 0,
+                            "y": 1024
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5112,6 +5154,9 @@
           },
           {
             "objectName": "Volver"
+          },
+          {
+            "objectName": "NewSprite"
           }
         ]
       },
@@ -5223,6 +5268,39 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": false,
+          "name": "fondo",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
           "renderingType": "",
           "visibility": true,
@@ -5268,6 +5346,39 @@
           "isLightingLayer": false,
           "isLocked": false,
           "name": "tienda",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Layer",
           "renderingType": "",
           "visibility": true,
           "cameras": [],
@@ -5341,7 +5452,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.26364576737708145,
+        "zoomFactor": 0.15002679255025608,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5374,7 +5485,7 @@
           "persistentUuid": "c521025c-263a-4dc1-992a-01174e7d398f",
           "width": 211,
           "x": 1201,
-          "y": 128,
+          "y": 97,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -5527,8 +5638,8 @@
           "name": "plataforma_flotante",
           "persistentUuid": "98dba793-6e5f-4703-b631-81b70a59396f",
           "width": 325,
-          "x": 1167,
-          "y": 375,
+          "x": 852,
+          "y": 144,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5578,9 +5689,45 @@
           "name": "Fondo",
           "persistentUuid": "33255718-e0ea-493d-b3c2-8d05fd780423",
           "width": 3675,
-          "x": -816,
-          "y": -646,
-          "zOrder": -5,
+          "x": -801,
+          "y": -657,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "flippedX": true,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_flotante",
+          "persistentUuid": "76f34051-3aa0-4688-ad15-088639e8a613",
+          "width": 325,
+          "x": 1215,
+          "y": -135,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "flippedX": true,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plataforma_flotante",
+          "persistentUuid": "10fbddc9-dc59-4f19-b925-67238486cb24",
+          "width": 325,
+          "x": 438,
+          "y": -345,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5592,7 +5739,7 @@
           "height": 32,
           "keepRatio": true,
           "layer": "",
-          "name": "borde_muerte",
+          "name": "NewTiledSprite2",
           "persistentUuid": "f83d1abc-09ed-4490-8a05-98e8d9637c9d",
           "width": 4639,
           "x": -1444,
@@ -5609,7 +5756,7 @@
           "height": 2979,
           "keepRatio": true,
           "layer": "",
-          "name": "borde_muerte",
+          "name": "NewTiledSprite2",
           "persistentUuid": "168f497d-fbfe-435b-8857-15a784e69237",
           "width": 28,
           "x": 3191,
@@ -5626,11 +5773,11 @@
           "height": 37,
           "keepRatio": true,
           "layer": "",
-          "name": "borde_muerte",
+          "name": "NewTiledSprite2",
           "persistentUuid": "6b2233db-f2ba-48a4-b853-3eba4fd6cd0b",
           "width": 4600,
-          "x": -1368,
-          "y": -973,
+          "x": -1375,
+          "y": -1260,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -5643,148 +5790,12 @@
           "height": 3037,
           "keepRatio": true,
           "layer": "",
-          "name": "borde_muerte",
+          "name": "NewTiledSprite2",
           "persistentUuid": "285d2ed6-6908-4f1e-b33b-c5e432c42082",
-          "width": 24,
-          "x": -1165,
-          "y": -1159,
+          "width": 124,
+          "x": -1515,
+          "y": -1240,
           "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 355,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube1",
-          "persistentUuid": "80005f25-fc4e-431b-a9fc-92921dae97d2",
-          "width": 647,
-          "x": 6539,
-          "y": -711,
-          "zOrder": -3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 376,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube5",
-          "persistentUuid": "bc08f865-d1a6-4782-98e3-546b448103a4",
-          "width": 607,
-          "x": 5126,
-          "y": 196,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 353,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube2",
-          "persistentUuid": "3efc1bf0-2401-426b-955e-41ae2ff692a3",
-          "width": 688,
-          "x": 3492,
-          "y": -748,
-          "zOrder": -3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 205,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube4",
-          "persistentUuid": "d3fdd2fb-0de0-45e8-9df4-544b1a65db28",
-          "width": 311,
-          "x": 6590,
-          "y": 153,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 213,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube5",
-          "persistentUuid": "41fc0827-97de-4e2d-870d-5ff75f80313d",
-          "width": 357,
-          "x": 4707,
-          "y": -259,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 205,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube4",
-          "persistentUuid": "fa72b0a5-2b8f-49a3-b8e9-6202769a4294",
-          "width": 311,
-          "x": 4247,
-          "y": 94,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 400,
-          "keepRatio": true,
-          "layer": "",
-          "name": "nube5",
-          "persistentUuid": "81924485-d8a8-4755-a03c-8fdf9ebc1906",
-          "width": 568,
-          "x": 7452,
-          "y": -440,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 3150,
-          "keepRatio": true,
-          "layer": "",
-          "name": "objetivo",
-          "persistentUuid": "1564e57e-df68-47bc-ad2f-14c1f61301c8",
-          "width": 13,
-          "x": -1982,
-          "y": -1134,
-          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5867,6 +5878,58 @@
               "jumpSustainTime": 0.2,
               "useLegacyTrajectory": false,
               "yGrabOffset": 0
+            },
+            {
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.9,
+              "DownwardSpeed": 0.9,
+              "FollowOnX": true,
+              "FollowOnY": true,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 2.0247e-320,
+              "LogRightwardSpeed": 2.0247e-320,
+              "LogDownwardSpeed": 2.0247e-320,
+              "LogUpwardSpeed": 2.0247e-320,
+              "DelayedCenterX": 2.0247e-320,
+              "DelayedCenterY": 2.0247e-320,
+              "ForecastHistoryMeanX": 2.0247e-320,
+              "ForecastHistoryMeanY": 2.0247e-320,
+              "ForecastHistoryVarianceX": 2.0247e-320,
+              "ForecastHistoryCovariance": 2.0247e-320,
+              "ForecastHistoryLinearA": 2.0247e-320,
+              "ForecastHistoryLinearB": 2.0247e-320,
+              "ForecastedX": 2.0247e-320,
+              "ForecastedY": 2.0247e-320,
+              "ProjectedNewestX": 2.0247e-320,
+              "ProjectedNewestY": 2.0247e-320,
+              "ProjectedOldestX": 2.0247e-320,
+              "ProjectedOldestY": 2.0247e-320,
+              "ForecastHistoryVarianceY": 2.0247e-320,
+              "Index": 2.0247e-320,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 2.0247e-320,
+              "WaitingSpeedXMax": 2.0247e-320,
+              "WaitingSpeedYMax": 2.0247e-320,
+              "WaitingEnd": 2.0247e-320,
+              "CameraDelayCatchUpDuration": 2.0247e-320,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 9000.000000007454,
+              "OldY": 9000.000000007454,
+              "IsCalledManually": false
             }
           ],
           "animations": [
@@ -9181,6 +9244,74 @@
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
+            },
+            {
+              "isFolded": true,
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.9,
+              "DownwardSpeed": 0.9,
+              "FollowOnX": true,
+              "FollowOnY": false,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 2.0247e-320,
+              "LogRightwardSpeed": 2.0247e-320,
+              "LogDownwardSpeed": 2.0247e-320,
+              "LogUpwardSpeed": 2.0247e-320,
+              "DelayedCenterX": 2.0247e-320,
+              "DelayedCenterY": 2.0247e-320,
+              "ForecastHistoryMeanX": 2.0247e-320,
+              "ForecastHistoryMeanY": 2.0247e-320,
+              "ForecastHistoryVarianceX": 2.0247e-320,
+              "ForecastHistoryCovariance": 2.0247e-320,
+              "ForecastHistoryLinearA": 2.0247e-320,
+              "ForecastHistoryLinearB": 2.0247e-320,
+              "ForecastedX": 2.0247e-320,
+              "ForecastedY": 2.0247e-320,
+              "ProjectedNewestX": 2.0247e-320,
+              "ProjectedNewestY": 2.0247e-320,
+              "ProjectedOldestX": 2.0247e-320,
+              "ProjectedOldestY": 2.0247e-320,
+              "ForecastHistoryVarianceY": 2.0247e-320,
+              "Index": 2.0247e-320,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 2.0247e-320,
+              "WaitingSpeedXMax": 2.0247e-320,
+              "WaitingSpeedYMax": 2.0247e-320,
+              "WaitingEnd": 2.0247e-320,
+              "CameraDelayCatchUpDuration": 2.0247e-320,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 9000.000000007454,
+              "OldY": 9000.000000007454,
+              "IsCalledManually": false
+            },
+            {
+              "name": "ThreeDFlip",
+              "type": "ThreeDFlip::ThreeDFlip",
+              "Resizable": "Resizable",
+              "Flippable": "Flippable",
+              "Animation": "Animation",
+              "FlippingMethod": "Mirror",
+              "FrontAnimation": "Front",
+              "BackAnimation": "Back",
+              "Duration": 0,
+              "IsFlipped": false,
+              "Width": 0,
+              "ElapsedTime": 0,
+              "Toggle": false
             }
           ],
           "animations": [
@@ -9245,6 +9376,42 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "stun",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 28
+                          },
+                          {
+                            "x": 60.5,
+                            "y": 27.5
+                          },
+                          {
+                            "x": 61,
+                            "y": 94
+                          },
+                          {
+                            "x": 34.5,
+                            "y": 94
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "muñeco_de_prueba.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9609,7 +9776,7 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "borde_muerte",
+          "name": "NewTiledSprite2",
           "texture": "NewTiledSprite5",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -9637,7 +9804,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo\\fondo_del_juego.png",
+                      "image": "fondo_del_juego2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9657,392 +9824,16 @@
                             "y": 0
                           },
                           {
-                            "x": 415,
+                            "x": 240,
                             "y": 0
                           },
                           {
-                            "x": 415,
-                            "y": 279
+                            "x": 240,
+                            "y": 160
                           },
                           {
                             "x": 0,
-                            "y": 279
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "nube1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "acceleration": 400,
-              "allowDiagonals": true,
-              "angleOffset": 0,
-              "angularMaxSpeed": 180,
-              "customIsometryAngle": 30,
-              "deceleration": 800,
-              "ignoreDefaultControls": false,
-              "maxSpeed": 200,
-              "movementAngleOffset": 0,
-              "name": "TopDownMovement",
-              "rotateObject": true,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-              "viewpoint": "TopDown"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo\\nubes_del_fondo\\nube5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 100,
-                            "y": 3
-                          },
-                          {
-                            "x": 100,
-                            "y": 55
-                          },
-                          {
-                            "x": 3,
-                            "y": 55
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "nube2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo\\nubes_del_fondo\\nube1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 4
-                          },
-                          {
-                            "x": 80,
-                            "y": 4
-                          },
-                          {
-                            "x": 80,
-                            "y": 43
-                          },
-                          {
-                            "x": 2,
-                            "y": 43
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "nube3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo\\nubes_del_fondo\\nube3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 3
-                          },
-                          {
-                            "x": 35,
-                            "y": 3
-                          },
-                          {
-                            "x": 35,
-                            "y": 22
-                          },
-                          {
-                            "x": 2,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "nube5",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo\\nubes_del_fondo\\nube4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 5
-                          },
-                          {
-                            "x": 86,
-                            "y": 5
-                          },
-                          {
-                            "x": 86,
-                            "y": 41
-                          },
-                          {
-                            "x": 5,
-                            "y": 41
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "nube4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo\\nubes_del_fondo\\nube3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 3
-                          },
-                          {
-                            "x": 35,
-                            "y": 3
-                          },
-                          {
-                            "x": 35,
-                            "y": 22
-                          },
-                          {
-                            "x": 2,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "objetivo",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo\\nubes_del_fondo\\nube2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 3
-                          },
-                          {
-                            "x": 25,
-                            "y": 3
-                          },
-                          {
-                            "x": 25,
-                            "y": 17
-                          },
-                          {
-                            "x": 1,
-                            "y": 17
+                            "y": 160
                           }
                         ]
                       ]
@@ -10061,7 +9852,7 @@
             "objectName": "jugador_1"
           },
           {
-            "objectName": "borde_muerte"
+            "objectName": "NewTiledSprite2"
           },
           {
             "objectName": "porcentaje_1"
@@ -10092,24 +9883,6 @@
           },
           {
             "objectName": "Fondo"
-          },
-          {
-            "objectName": "nube1"
-          },
-          {
-            "objectName": "objetivo"
-          },
-          {
-            "objectName": "nube3"
-          },
-          {
-            "objectName": "nube5"
-          },
-          {
-            "objectName": "nube2"
-          },
-          {
-            "objectName": "nube4"
           }
         ]
       },
@@ -10162,7 +9935,7 @@
               },
               "parameters": [
                 "jugador_1",
-                "borde_muerte",
+                "NewTiledSprite2",
                 "",
                 "",
                 ""
@@ -10177,9 +9950,9 @@
               "parameters": [
                 "jugador_1",
                 "=",
-                "745",
+                "969 ",
                 "=",
-                "261"
+                "456"
               ]
             }
           ]
@@ -10193,7 +9966,7 @@
               },
               "parameters": [
                 "jugador_2",
-                "borde_muerte",
+                "NewTiledSprite2",
                 "",
                 "",
                 ""
@@ -10206,368 +9979,14 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "jugador_2",
+                "jugador_1",
                 "=",
-                "1200",
+                "969 ",
                 "=",
-                "125"
+                "456"
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SetCameraCenterX"
-              },
-              "parameters": [
-                "",
-                "=",
-                "(jugador_1.X() +jugador_2.X()) /2",
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetCameraCenterY"
-              },
-              "parameters": [
-                "",
-                "=",
-                "(jugador_1.Y()+jugador_2.Y()) / 2",
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ZoomCamera"
-              },
-              "parameters": [
-                "",
-                "clamp(2 - jugador_1.Distance(jugador_2) / 500, 0.75 ,1.15)",
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ClampCamera"
-              },
-              "parameters": [
-                "",
-                "-815",
-                "-645",
-                "2855",
-                "1540",
-                "",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "disabled": true,
-          "folded": true,
-          "name": "animacion paisaje (nubes)",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "objetivo",
-                    "nube1",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "nube1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "nube1",
-                    "=",
-                    "RandomFloatInRange(3000, 3500)",
-                    "=",
-                    "RandomFloatInRange(0, 1000)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "objetivo",
-                    "nube2",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "nube2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "nube1",
-                    "=",
-                    "RandomFloatInRange(3000, 3500)",
-                    "=",
-                    "RandomFloatInRange(0, 1000)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "objetivo",
-                    "nube3",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "nube3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "nube1",
-                    "=",
-                    "RandomFloatInRange(3000, 3500)",
-                    "=",
-                    "RandomFloatInRange(0, 1000)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "objetivo",
-                    "nube4",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "nube4"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "nube1",
-                    "=",
-                    "RandomFloatInRange(3000, 3500)",
-                    "=",
-                    "RandomFloatInRange(0, 1000)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "objetivo",
-                    "nube4",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "nube5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "nube1",
-                    "=",
-                    "RandomFloatInRange(3000, 3500)",
-                    "=",
-                    "RandomFloatInRange(0, 1000)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "nube1",
-                    "objetivo",
-                    "RandomFloatInRange(0.05, 0.5)",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "nube2",
-                    "objetivo",
-                    "RandomFloatInRange(0.05, 0.01)",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "nube3",
-                    "objetivo",
-                    "RandomFloatInRange(0.05, 0.5)",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "nube4",
-                    "objetivo",
-                    "RandomFloatInRange(0.05, 0.01)",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "nube5",
-                    "objetivo",
-                    "RandomFloatInRange(0.05, 0.5)",
-                    "1"
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -10725,12 +10144,16 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+          "name": "ThreeDFlip",
+          "type": "ThreeDFlip::ThreeDFlip"
         }
       ]
     }
@@ -12276,6 +11699,11 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -12319,11 +11747,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ]
     },
@@ -12358,11 +11781,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
