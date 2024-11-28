@@ -5001,6 +5001,24 @@
         "name": "fondo\\fondo_del_juego.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ecenario/ecenario/ecenario.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ecenario\\ecenario\\ecenario.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5776,7 +5794,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.1830573495556012,
+        "zoomFactor": 0.25504554733543533,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5824,8 +5842,8 @@
           "name": "jugador_1",
           "persistentUuid": "b9b7acad-28fe-4d14-bec5-6d30797fd758",
           "width": 400,
-          "x": 609,
-          "y": 293,
+          "x": 578,
+          "y": 368,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -5921,14 +5939,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 443,
+          "height": 2190,
           "keepRatio": true,
           "layer": "",
           "name": "platafoma_principal",
           "persistentUuid": "eaa82fb2-dbfe-4b1f-8610-90ff11ed5cb7",
-          "width": 1496,
-          "x": 195,
-          "y": 617,
+          "width": 3461,
+          "x": -791,
+          "y": -689,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5937,15 +5955,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 36,
-          "keepRatio": true,
+          "depth": 2.4615384615384617,
+          "height": 350,
           "layer": "",
           "name": "plataforma_flotante",
           "persistentUuid": "718c07e7-31b3-4ecb-85e0-424a31912549",
-          "width": 325,
-          "x": 317,
-          "y": 375,
+          "width": 800,
+          "x": 40,
+          "y": 248,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5954,16 +5971,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
+          "depth": 2.4615384615384617,
           "flippedX": true,
-          "height": 34,
-          "keepRatio": true,
+          "height": 350,
           "layer": "",
           "name": "plataforma_flotante",
           "persistentUuid": "98dba793-6e5f-4703-b631-81b70a59396f",
-          "width": 325,
-          "x": 1206,
-          "y": 372,
+          "width": 800,
+          "x": 1128,
+          "y": 260,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -6023,16 +6039,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
+          "depth": 0.9569377990430622,
           "flippedX": true,
-          "height": 34,
-          "keepRatio": true,
+          "height": 350,
           "layer": "",
           "name": "plataforma_flotante",
           "persistentUuid": "10fbddc9-dc59-4f19-b925-67238486cb24",
-          "width": 325,
-          "x": 779,
-          "y": 69,
+          "width": 800,
+          "x": 552,
+          "y": -15,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -9521,7 +9536,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "jugador_2",
           "type": "Sprite",
@@ -9576,7 +9591,6 @@
           "effects": [],
           "behaviors": [
             {
-              "isFolded": true,
               "name": "AdvancedJump",
               "type": "AdvancedJump::AdvancedJump",
               "PlatformerBehavior": "PlatformerObject",
@@ -9591,21 +9605,21 @@
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "deceleration": 1500,
+              "gravity": 1000,
+              "ladderClimbingSpeed": 148,
               "maxFallingSpeed": 800,
               "slopeMaxAngle": 60,
-              "gravity": 1000,
-              "ladderClimbingSpeed": 147,
+              "canGoDownFromJumpthru": false,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
               "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": true,
-              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "maxSpeed": 500,
+              "xGrabTolerance": 0,
               "ignoreDefaultControls": true,
               "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
-              "maxSpeed": 250,
               "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
               "yGrabOffset": 0
             },
             {
@@ -9710,20 +9724,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -9764,20 +9778,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -9806,20 +9820,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -9848,20 +9862,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -9890,20 +9904,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -9944,20 +9958,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -9986,20 +10000,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10028,20 +10042,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10070,20 +10084,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10112,20 +10126,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10166,20 +10180,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10208,20 +10222,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10250,20 +10264,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10292,20 +10306,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10346,20 +10360,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10388,20 +10402,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10430,20 +10444,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10472,20 +10486,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10526,20 +10540,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10568,20 +10582,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10610,20 +10624,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10664,20 +10678,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10706,20 +10720,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10748,20 +10762,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10790,20 +10804,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10832,20 +10846,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10886,20 +10900,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10928,20 +10942,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -10970,20 +10984,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 2
+                            "x": 22,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 2
+                            "x": 53,
+                            "y": 1.5
                           },
                           {
-                            "x": 72,
-                            "y": 64
+                            "x": 53,
+                            "y": 66
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 22,
+                            "y": 66
                           }
                         ]
                       ]
@@ -11095,7 +11109,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite3",
+                      "image": "ecenario\\ecenario\\ecenario.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11111,20 +11125,36 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1.5
+                            "x": 125.5,
+                            "y": 199.5
                           },
                           {
-                            "x": 63,
-                            "y": 1.5
+                            "x": 115.5,
+                            "y": 176
                           },
                           {
-                            "x": 63,
-                            "y": 64
+                            "x": 115.5,
+                            "y": 168
                           },
                           {
-                            "x": 1,
-                            "y": 64
+                            "x": 299.5,
+                            "y": 168.5
+                          },
+                          {
+                            "x": 299,
+                            "y": 179
+                          },
+                          {
+                            "x": 293,
+                            "y": 194.5
+                          },
+                          {
+                            "x": 274.5,
+                            "y": 214
+                          },
+                          {
+                            "x": 145,
+                            "y": 214.5
                           }
                         ]
                       ]
@@ -11223,7 +11253,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite5",
+                      "image": "NewSprite8",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11239,20 +11269,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 113,
+                            "y": 160
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 303,
+                            "y": 160
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 303,
+                            "y": 205
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 113,
+                            "y": 205
                           }
                         ]
                       ]
@@ -11463,7 +11493,7 @@
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
-                "porcentaje_2",
+                "porcentaje_1",
                 "Text",
                 "=",
                 "\"jugador 1 vida: \" + jugador_1.vida"
@@ -11486,7 +11516,7 @@
               },
               "parameters": [
                 "",
-                "-863",
+                "-700",
                 "-734",
                 "2804",
                 "1451",
@@ -11554,6 +11584,23 @@
                 "969 ",
                 "=",
                 "456"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "HitAtack1",
+                "Opacity",
+                "=",
+                "0"
               ]
             }
           ]
@@ -11738,7 +11785,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "jugador 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12017,6 +12063,67 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "jugador_1",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Movimiento",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "jugador_1",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "colorB": 228,
               "colorG": 176,
               "colorR": 74,
@@ -12123,7 +12230,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -12259,9 +12365,9 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "1323",
+                        "1759",
                         "=",
-                        "650"
+                        "712"
                       ]
                     },
                     {
@@ -12530,741 +12636,6 @@
                 }
               ],
               "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "golpe arriba",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "w"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "d"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "w"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "a"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "w"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe arriba\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe lateral\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Sprite"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "=",
-                        "4"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "HitAtack1",
-                        "jugador_1.PointX(\"golpe arriba\") ",
-                        "jugador_1.PointY(\"golpe arribaY\")",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "Sprite"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "=",
-                            "4"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "HitAtack1",
-                            "HitAtack1"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "HitAtack1",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "Vida",
-                            "+",
-                            "3"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AddForceAL"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "jugador_1.AngleToObject(jugador_2)",
-                            "60",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AddForceXY"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "0",
-                            "-150",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "Animation",
-                            "=",
-                            "\"stun\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": []
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "golpe bajo",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "s"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "d"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "s"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "a"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "s"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Movimiento",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe bajo\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "golpe lateral",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "j"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Movimiento",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe lateral\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "j"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Movimiento",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe lateral\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe lateral\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Sprite"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "=",
-                        "4"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "HitAtack1",
-                        "jugador_1.PointX(\"golpe arriba\") ",
-                        "jugador_1.PointY(\"golpe arribaY\")",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "HitAtack1",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "Vida",
-                            "+",
-                            "3"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AddForceAL"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "jugador_1.AngleToObject(jugador_2)",
-                            "60",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AddForceXY"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "0",
-                            "-500",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "Animation",
-                            "=",
-                            "\"stun\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": []
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "Sprite"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "=",
-                        "4"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "HitAtack1"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
             }
           ],
           "parameters": []
@@ -13293,6 +12664,15 @@
                   "parameters": [
                     "jugador_2",
                     "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "jugador_2",
+                    "PlatformerObject"
                   ]
                 }
               ],
@@ -13336,19 +12716,7 @@
                         "jugador_2",
                         "Animation",
                         "=",
-                        "\"golpe lateral\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_2",
-                        "Animation",
-                        "=",
-                        "\"golpe arriba\""
+                        "\"golpe horizontal\""
                       ]
                     }
                   ]
@@ -13372,7 +12740,7 @@
                     "jugador_2",
                     "Animation",
                     "=",
-                    "\"quieto\""
+                    "\"estatico\""
                   ]
                 }
               ]
@@ -14382,7 +13750,7 @@
                             "value": "CollisionNP"
                           },
                           "parameters": [
-                            "jugador_2",
+                            "jugador_1",
                             "HitAtack1",
                             "",
                             "",
@@ -14396,7 +13764,7 @@
                             "value": "SetNumberObjectVariable"
                           },
                           "parameters": [
-                            "jugador_2",
+                            "jugador_1",
                             "Vida",
                             "+",
                             "3"
@@ -14407,7 +13775,7 @@
                             "value": "AddForceAL"
                           },
                           "parameters": [
-                            "jugador_2",
+                            "jugador_1",
                             "jugador_1.AngleToObject(jugador_2)",
                             "60",
                             "1"
@@ -14418,7 +13786,7 @@
                             "value": "AddForceXY"
                           },
                           "parameters": [
-                            "jugador_2",
+                            "jugador_1",
                             "0",
                             "-150",
                             "1"
@@ -14429,7 +13797,7 @@
                             "value": "AnimatableCapability::AnimatableBehavior::SetName"
                           },
                           "parameters": [
-                            "jugador_2",
+                            "jugador_1",
                             "Animation",
                             "=",
                             "\"stun\""
@@ -14441,449 +13809,6 @@
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [],
                       "actions": []
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "golpe bajo",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "s"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "d"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "s"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "a"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "s"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "jugador_1",
-                                "j"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Movimiento",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe bajo\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "golpe lateral",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "j"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Movimiento",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe lateral\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "j"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Movimiento",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_1",
-                            "Animation",
-                            "=",
-                            "\"golpe lateral\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "Animation",
-                        "=",
-                        "\"golpe lateral\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Sprite"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "=",
-                        "4"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "HitAtack1",
-                        "jugador_1.PointX(\"golpe arriba\") ",
-                        "jugador_1.PointY(\"golpe arribaY\")",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "HitAtack1",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberObjectVariable"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "Vida",
-                            "+",
-                            "3"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AddForceAL"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "jugador_1.AngleToObject(jugador_2)",
-                            "60",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AddForceXY"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "0",
-                            "-500",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "jugador_2",
-                            "Animation",
-                            "=",
-                            "\"stun\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": []
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "Sprite"
-                      },
-                      "parameters": [
-                        "jugador_1",
-                        "=",
-                        "4"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "HitAtack1",
-                        "HitAtack1"
-                      ]
                     }
                   ]
                 }
@@ -14892,11 +13817,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ]
     },
