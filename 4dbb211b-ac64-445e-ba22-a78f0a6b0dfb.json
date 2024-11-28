@@ -4677,6 +4677,195 @@
         "name": "DALL·E 2024-11-28 16.21.00 - A bright 16-bit style pixel art of a post-apocalyptic world where an evil virus has destroyed the Earth, leaving floating platforms in the air. The sc.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/primer_golpe/primer_golpe_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/primer_golpe/primer_golpe_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/primer_golpe/primer_golpe_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/primer_golpe/primer_golpe_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/segundo_golpe/segundo_golpe_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/segundo_golpe/segundo_golpe_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/segundo_golpe/segundo_golpe_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_estatico/segundo_golpe/segundo_golpe_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_bajo/golpe_bajo_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_bajo\\golpe_bajo_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_bajo/golpe_bajo_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_bajo\\golpe_bajo_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_bajo/golpe_bajo_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_bajo\\golpe_bajo_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_bajo/golpe_bajo_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_bajo\\golpe_bajo_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_bajo/golpe_bajo_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_bajo\\golpe_bajo_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_horizontal/golpe_horizontal_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_horizontal/golpe_horizontal_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_horizontal/golpe_horizontal_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0003.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_horizontal/golpe_horizontal_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0004.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_horizontal/golpe_horizontal_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0005.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_lateral/golpe_lateral_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_lateral\\golpe_lateral_0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_lateral/golpe_lateral_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_lateral\\golpe_lateral_0002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/golpes/golpe_lateral/golpe_lateral_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\golpes\\golpe_lateral\\golpe_lateral_0003.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5452,7 +5641,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.15002679255025608,
+        "zoomFactor": 0.28172599320795727,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5479,13 +5668,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 211,
+          "height": 314,
           "layer": "",
           "name": "jugador_2",
           "persistentUuid": "c521025c-263a-4dc1-992a-01174e7d398f",
-          "width": 211,
-          "x": 1201,
-          "y": 97,
+          "width": 250,
+          "x": 1402,
+          "y": 283,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -9193,7 +9382,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": false,
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "jugador_2",
           "type": "Sprite",
@@ -9316,17 +9505,16 @@
           ],
           "animations": [
             {
-              "name": "quieto",
+              "name": "golpe estatico_1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "quieto136",
+                      "image": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0001.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9342,20 +9530,128 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 28
+                            "x": 0,
+                            "y": 13
                           },
                           {
-                            "x": 60.5,
-                            "y": 27.5
+                            "x": 64,
+                            "y": 13
                           },
                           {
-                            "x": 61,
-                            "y": 94
+                            "x": 64,
+                            "y": 75
                           },
                           {
-                            "x": 34.5,
-                            "y": 94
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_estatico\\primer_golpe\\primer_golpe_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
                           }
                         ]
                       ]
@@ -9365,17 +9661,16 @@
               ]
             },
             {
-              "name": "stun",
+              "name": "golpe estatico_2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.5,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "stun",
+                      "image": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0001.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9391,27 +9686,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 28
+                            "x": 0,
+                            "y": 13
                           },
                           {
-                            "x": 60.5,
-                            "y": 27.5
+                            "x": 64,
+                            "y": 13
                           },
                           {
-                            "x": 61,
-                            "y": 94
+                            "x": 64,
+                            "y": 75
                           },
                           {
-                            "x": 34.5,
-                            "y": 94
+                            "x": 0,
+                            "y": 75
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "muñeco_de_prueba.png",
+                      "image": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9427,20 +9722,596 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 34,
-                            "y": 28
+                            "x": 0,
+                            "y": 13
                           },
                           {
-                            "x": 60.5,
-                            "y": 27.5
+                            "x": 64,
+                            "y": 13
                           },
                           {
-                            "x": 61,
-                            "y": 94
+                            "x": 64,
+                            "y": 75
                           },
                           {
-                            "x": 34.5,
-                            "y": 94
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_estatico\\segundo_golpe\\segundo_golpe_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe bajo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_bajo\\golpe_bajo_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_bajo\\golpe_bajo_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_bajo\\golpe_bajo_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_bajo\\golpe_bajo_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_bajo\\golpe_bajo_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe horizontal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_horizontal\\golpe_horizontal_0005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe lateral",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_lateral\\golpe_lateral_0001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_lateral\\golpe_lateral_0002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\golpes\\golpe_lateral\\golpe_lateral_0003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 13
+                          },
+                          {
+                            "x": 64,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
                           }
                         ]
                       ]
@@ -10168,6 +11039,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "jugador 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10552,6 +11424,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
