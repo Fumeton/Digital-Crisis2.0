@@ -5019,6 +5019,24 @@
         "name": "NewSprite8",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5837,24 +5855,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 104,
-          "keepRatio": true,
-          "layer": "",
-          "name": "hitbox_borde_left",
-          "opacity": 0,
-          "persistentUuid": "b57ea0c8-7888-403e-8fb1-6b42ce45f931",
-          "width": 130,
-          "x": 107,
-          "y": 664,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 116,
           "keepRatio": true,
           "layer": "",
@@ -5965,24 +5965,6 @@
           "x": 1147,
           "y": 255,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 102,
-          "keepRatio": true,
-          "layer": "",
-          "name": "hitbox_borde_right",
-          "opacity": 0,
-          "persistentUuid": "404e17bf-4b4c-45ab-9ddc-0fae751723f2",
-          "width": 119,
-          "x": 1658,
-          "y": 662,
-          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6121,6 +6103,42 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 189,
+          "keepRatio": true,
+          "layer": "",
+          "name": "hitbox_borde_right",
+          "opacity": 0,
+          "persistentUuid": "6bfdcdee-a00e-4394-8e64-9f9dff462632",
+          "width": 250,
+          "x": 1608,
+          "y": 671,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 193,
+          "keepRatio": true,
+          "layer": "",
+          "name": "hitbox_borde_left",
+          "opacity": 0,
+          "persistentUuid": "8a2d76d0-b4e5-4be7-8c9a-9485816e3331",
+          "width": 270,
+          "x": 29,
+          "y": 667,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -6132,12 +6150,12 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "agarre_left",
+              "name": "agarre_left1",
               "type": "boolean",
               "value": false
             },
             {
-              "name": "agarre_right",
+              "name": "agarre_right1",
               "type": "boolean",
               "value": false
             },
@@ -9532,17 +9550,12 @@
               "value": false
             },
             {
-              "name": "Vida",
-              "type": "number",
-              "value": 0
-            },
-            {
-              "name": "agarre_left",
+              "name": "agarre_left2",
               "type": "boolean",
               "value": false
             },
             {
-              "name": "agarre_right",
+              "name": "agarre_right2",
               "type": "boolean",
               "value": false
             },
@@ -10545,23 +10558,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\golpes\\golpe_lateral\\golpe_lateral_0001.png",
-                      "points": [
-                        {
-                          "name": "Point",
-                          "x": 14.5,
-                          "y": 56.5
-                        }
-                      ],
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 83,
-                        "y": 58.5
+                        "x": 80.5,
+                        "y": 42.5
                       },
                       "centerPoint": {
                         "automatic": false,
                         "name": "centre",
-                        "x": 37.5,
-                        "y": 34.5
+                        "x": 37,
+                        "y": 42
                       },
                       "customCollisionMask": [
                         [
@@ -10587,23 +10594,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\golpes\\golpe_lateral\\golpe_lateral_0002.png",
-                      "points": [
-                        {
-                          "name": "Point",
-                          "x": 14.5,
-                          "y": 56.5
-                        }
-                      ],
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 83,
-                        "y": 58.5
+                        "x": 80.5,
+                        "y": 42.5
                       },
                       "centerPoint": {
                         "automatic": false,
                         "name": "centre",
-                        "x": 37.5,
-                        "y": 34.5
+                        "x": 37,
+                        "y": 42
                       },
                       "customCollisionMask": [
                         [
@@ -10629,23 +10630,17 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\golpes\\golpe_lateral\\golpe_lateral_0003.png",
-                      "points": [
-                        {
-                          "name": "Point",
-                          "x": 14.5,
-                          "y": 56.5
-                        }
-                      ],
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 83,
-                        "y": 58.5
+                        "x": 80.5,
+                        "y": 42.5
                       },
                       "centerPoint": {
                         "automatic": false,
                         "name": "centre",
-                        "x": 37.5,
-                        "y": 34.5
+                        "x": 37,
+                        "y": 42
                       },
                       "customCollisionMask": [
                         [
@@ -11096,17 +11091,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "hitbox_borde_left",
-          "texture": "NewTiledSprite8",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "platafoma_principal",
@@ -11364,17 +11348,6 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "hitbox_borde_right",
-          "texture": "border_right",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
           "name": "NewTiledSprite2",
           "texture": "NewTiledSprite5",
           "type": "TiledSpriteObject::TiledSprite",
@@ -11442,6 +11415,128 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "hitbox_borde_left",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "hitbox_borde_right",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11469,9 +11564,6 @@
             "objectName": "hitbox_borde_left"
           },
           {
-            "objectName": "hitbox_borde_right"
-          },
-          {
             "objectName": "porcentaje_2"
           },
           {
@@ -11482,6 +11574,9 @@
           },
           {
             "objectName": "Fondo"
+          },
+          {
+            "objectName": "hitbox_borde_right"
           }
         ]
       },
@@ -11505,7 +11600,7 @@
                 "porcentaje_2",
                 "Text",
                 "=",
-                "\"jugador 2 : \" + jugador_2.vida +\"%\""
+                "\"Jugador 2 : \" + jugador_2.vida +\"%\""
               ]
             }
           ]
@@ -11522,7 +11617,7 @@
                 "porcentaje_1",
                 "Text",
                 "=",
-                "\"jugador 1: \" + jugador_1.vida + \"%\""
+                "\"Jugador 1: \" + jugador_1.vida + \"%\""
               ]
             }
           ]
@@ -11827,7 +11922,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "jugador 1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12276,7 +12370,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -12320,7 +12413,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre_left",
+                        "agarre_left1",
                         "False",
                         ""
                       ]
@@ -12331,7 +12424,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre_right",
+                        "agarre_right1",
                         "False",
                         ""
                       ]
@@ -12358,7 +12451,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre_left",
+                        "agarre_left1",
                         "True",
                         ""
                       ]
@@ -12398,7 +12491,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre_right",
+                        "agarre_right1",
                         "True",
                         ""
                       ]
@@ -12452,7 +12545,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre_left",
+                        "agarre_left1",
                         "True",
                         ""
                       ]
@@ -12482,7 +12575,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "agarre_right",
+                        "agarre_right1",
                         "True",
                         ""
                       ]
@@ -12510,7 +12603,7 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre_left",
+                                "agarre_left1",
                                 "True",
                                 ""
                               ]
@@ -12538,7 +12631,7 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre_right",
+                                "agarre_right1",
                                 "True",
                                 ""
                               ]
@@ -12566,7 +12659,7 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre_left",
+                                "agarre_left1",
                                 "True",
                                 ""
                               ]
@@ -12603,7 +12696,7 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre_left",
+                                "agarre_left1",
                                 "True",
                                 ""
                               ]
@@ -12622,7 +12715,7 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre_right",
+                                "agarre_right1",
                                 "True",
                                 ""
                               ]
@@ -12659,7 +12752,7 @@
                               },
                               "parameters": [
                                 "jugador_1",
-                                "agarre_right",
+                                "agarre_right1",
                                 "True",
                                 ""
                               ]
@@ -12833,8 +12926,8 @@
                       },
                       "parameters": [
                         "jugador_2",
-                        "100 + jugador_2.Vida",
-                        "-150",
+                        "500 + jugador_2.Vida",
+                        "-500",
                         "1"
                       ]
                     },
@@ -12921,6 +13014,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "jugador 2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13391,7 +13485,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Agarre del borde",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -13434,8 +13527,8 @@
                         "value": "SetBooleanObjectVariable"
                       },
                       "parameters": [
-                        "jugador_1",
-                        "agarre_left",
+                        "jugador_2",
+                        "agarre_left2",
                         "False",
                         ""
                       ]
@@ -13445,8 +13538,8 @@
                         "value": "SetBooleanObjectVariable"
                       },
                       "parameters": [
-                        "jugador_1",
-                        "agarre_right",
+                        "jugador_2",
+                        "agarre_right2",
                         "False",
                         ""
                       ]
@@ -13472,8 +13565,8 @@
                         "value": "BooleanObjectVariable"
                       },
                       "parameters": [
-                        "jugador_1",
-                        "agarre_left",
+                        "jugador_2",
+                        "agarre_left2",
                         "True",
                         ""
                       ]
@@ -13512,8 +13605,8 @@
                         "value": "BooleanObjectVariable"
                       },
                       "parameters": [
-                        "jugador_1",
-                        "agarre_right",
+                        "jugador_2",
+                        "agarre_right2",
                         "True",
                         ""
                       ]
@@ -13527,9 +13620,9 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "1323",
+                        "1900",
                         "=",
-                        "650"
+                        "712"
                       ]
                     },
                     {
@@ -13567,7 +13660,7 @@
                       },
                       "parameters": [
                         "jugador_2",
-                        "agarre_left",
+                        "agarre_left2",
                         "True",
                         ""
                       ]
@@ -13597,7 +13690,7 @@
                       },
                       "parameters": [
                         "jugador_2",
-                        "agarre_right",
+                        "agarre_right2",
                         "True",
                         ""
                       ]
@@ -13625,7 +13718,7 @@
                               },
                               "parameters": [
                                 "jugador_2",
-                                "agarre_left",
+                                "agarre_left2",
                                 "True",
                                 ""
                               ]
@@ -13653,7 +13746,7 @@
                               },
                               "parameters": [
                                 "jugador_2",
-                                "agarre_right",
+                                "agarre_right2",
                                 "True",
                                 ""
                               ]
@@ -13681,7 +13774,7 @@
                               },
                               "parameters": [
                                 "jugador_2",
-                                "agarre_left",
+                                "agarre_left2",
                                 "True",
                                 ""
                               ]
@@ -13718,7 +13811,7 @@
                               },
                               "parameters": [
                                 "jugador_2",
-                                "agarre_left",
+                                "agarre_left2",
                                 "True",
                                 ""
                               ]
@@ -13737,7 +13830,7 @@
                               },
                               "parameters": [
                                 "jugador_2",
-                                "agarre_right",
+                                "agarre_right2",
                                 "True",
                                 ""
                               ]
@@ -13774,7 +13867,7 @@
                               },
                               "parameters": [
                                 "jugador_2",
-                                "agarre_right",
+                                "agarre_right2",
                                 "True",
                                 ""
                               ]
@@ -13804,7 +13897,8 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "golpe arriba",
+              "folded": true,
+              "name": "golpe lateral",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -13842,7 +13936,7 @@
                             "jugador_2",
                             "Animation",
                             "=",
-                            "\"golpe horizontal\""
+                            "\"golpe lateral\""
                           ]
                         },
                         {
@@ -13879,7 +13973,7 @@
                         "jugador_2",
                         "Animation",
                         "=",
-                        "\"golpe horizontal\""
+                        "\"golpe lateral\""
                       ]
                     },
                     {
@@ -13889,7 +13983,7 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "4"
+                        "2"
                       ]
                     },
                     {
@@ -13909,18 +14003,6 @@
                         "HitAtack1",
                         "jugador_2.PointX(\"Point\") ",
                         "jugador_2.PointY(\"Point\")",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "HitAtack1",
-                        "jugador_2.PointX(\"origin\")",
-                        "jugador_1.PointX(\"origin\")",
                         ""
                       ]
                     }
@@ -13967,7 +14049,7 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "jugador_1.AngleToObject(jugador_2)",
+                        "jugador_2.AngleToObject(jugador_1)",
                         "60",
                         "1"
                       ]
@@ -13978,8 +14060,8 @@
                       },
                       "parameters": [
                         "jugador_1",
-                        "0",
-                        "-150",
+                        "500+ jugador_1.vida",
+                        "-500",
                         "1"
                       ]
                     },
@@ -13992,6 +14074,22 @@
                         "Animation",
                         "=",
                         "\"stun\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.3"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Arreter"
+                      },
+                      "parameters": [
+                        "jugador_1"
                       ]
                     }
                   ]
@@ -14007,7 +14105,7 @@
                       "parameters": [
                         "jugador_1",
                         "=",
-                        "4"
+                        "2"
                       ]
                     }
                   ],
